@@ -59,6 +59,13 @@ CVPR2021
 
 ## GAN-based Methods
 
+**Audio-Driven Emotional Video Portraits**<br>
+*Xinya Ji, Hang Zhou, Kaisiyuan Wang, Wayne Wu, Chen Change Loy, Xun Cao, Feng Xu*<br>
+CVPR 2021
+[[Paper](https://arxiv.org/abs/2104.07452)]
+[[Code](https://github.com/jixinya/EVP/)]
+[[Project](https://jixinya.github.io/projects/evp/)]
+
 **MirrorGAN: Learning Text-to-image Generation by Redescription**<br>
 *Tingting Qiao, Jing Zhang, Duanqing Xu, Dacheng Tao*<br>
 CVPR 2019
