@@ -8,6 +8,9 @@
 <!-- [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) -->
 
 
+### TODO
+- MISE Dataset for multimodel image synthesis and editing
+
 ## Transformer-based Methods
 
 **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**<br>
