@@ -9,6 +9,11 @@
 
 
 ## Transformer-based Methods
+
 **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**<br>
 *Chenfei Wu, Jian Liang, Lei Ji, Fan Yang, Yuejian Fang, Daxin Jiang, Nan Duan*<br>
-arxiv, 2021. [[PDF](https://arxiv.org/abs/2111.12417)] [[Code](https://github.com/microsoft/NUWA)] [[Video](https://youtu.be/C9CTnZJ9ZE0)]
+arxiv, 2021. [[Paper](https://arxiv.org/abs/2111.12417)] [[Code](https://github.com/microsoft/NUWA)] [[Video](https://youtu.be/C9CTnZJ9ZE0)]
+
+**Taming Transformers for High-Resolution Image Synthesis**<br>
+*Patrick Esser, Robin Rombach, Björn Ommer*<br>
+CVPR 2021, [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)] [[Code](https://github.com/CompVis/taming-transformers)] [[Project](https://compvis.github.io/taming-transformers/)]
