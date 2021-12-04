@@ -29,6 +29,7 @@ CVPR 2021,
 
 **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**<br>
 *Or Patashnik, Zongze Wu, Eli Shechtman, Daniel Cohen-Or, Dani Lischinski*<br>
+ICCV 2021
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.pdf)]
 [[Code](https://github.com/orpatashnik/StyleCLIP)]
 [[Video](https://www.youtube.com/watch?v=PhR1gpXDu0w)]
@@ -41,4 +42,11 @@ CVPR2021,
 [[Video](https://www.youtube.com/watch?v=L8Na2f5viAM)]
 
 
-
+## NeRF-based Methods
+**AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis**<br>
+*Yudong Guo, Keyu Chen, Sen Liang, Yong-Jin Liu, Hujun Bao, Juyong Zhang*<br>
+ICCV 2021
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.pdf)]
+[[Code](https://github.com/YudongGuo/AD-NeRF)]
+[[Project](https://yudongguo.github.io/ADNeRF/)]
+[[Video](https://www.youtube.com/watch?v=TQO2EBYXLyU)]
