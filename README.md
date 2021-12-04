@@ -41,6 +41,13 @@ ICCV 2021
 [[Code](https://github.com/orpatashnik/StyleCLIP)]
 [[Video](https://www.youtube.com/watch?v=PhR1gpXDu0w)]
 
+**Talk-to-Edit: Fine-Grained Facial Editing via Dialog**<br>
+*Yuming Jiang, Ziqi Huang, Xingang Pan, Chen Change Loy, Ziwei Liu*<br>
+ICCV 2021
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Talk-To-Edit_Fine-Grained_Facial_Editing_via_Dialog_ICCV_2021_paper.pdf)]
+[[Code](https://github.com/yumingj/Talk-to-Edit)]
+[[Project](https://www.mmlab-ntu.com/project/talkedit/)]
+
 **TediGAN: Text-Guided Diverse Face Image Generation and Manipulation**<br>
 *Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu*<br>
 CVPR2021
