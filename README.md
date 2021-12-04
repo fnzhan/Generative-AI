@@ -12,8 +12,33 @@
 
 **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**<br>
 *Chenfei Wu, Jian Liang, Lei Ji, Fan Yang, Yuejian Fang, Daxin Jiang, Nan Duan*<br>
-arxiv, 2021. [[Paper](https://arxiv.org/abs/2111.12417)] [[Code](https://github.com/microsoft/NUWA)] [[Video](https://youtu.be/C9CTnZJ9ZE0)]
+arxiv, 2021. 
+[[Paper](https://arxiv.org/abs/2111.12417)] 
+[[Code](https://github.com/microsoft/NUWA)] 
+[[Video](https://youtu.be/C9CTnZJ9ZE0)]
 
 **Taming Transformers for High-Resolution Image Synthesis**<br>
 *Patrick Esser, Robin Rombach, Björn Ommer*<br>
-CVPR 2021, [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)] [[Code](https://github.com/CompVis/taming-transformers)] [[Project](https://compvis.github.io/taming-transformers/)]
+CVPR 2021, 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)] 
+[[Code](https://github.com/CompVis/taming-transformers)] 
+[[Project](https://compvis.github.io/taming-transformers/)]
+
+
+## GAN Inversion Methods 
+
+**StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**<br>
+*Or Patashnik, Zongze Wu, Eli Shechtman, Daniel Cohen-Or, Dani Lischinski*<br>
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.pdf)]
+[[Code](https://github.com/orpatashnik/StyleCLIP)]
+[[Video](https://www.youtube.com/watch?v=PhR1gpXDu0w)]
+
+**TediGAN: Text-Guided Diverse Face Image Generation and Manipulation**<br>
+*Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu*<br>
+CVPR2021, 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xia_TediGAN_Text-Guided_Diverse_Face_Image_Generation_and_Manipulation_CVPR_2021_paper.pdf)]
+[[Code](https://github.com/IIGROUP/TediGAN)]
+[[Video](https://www.youtube.com/watch?v=L8Na2f5viAM)]
+
+
+
