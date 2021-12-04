@@ -19,7 +19,7 @@ arxiv 2021
 
 **Taming Transformers for High-Resolution Image Synthesis**<br>
 *Patrick Esser, Robin Rombach, Björn Ommer*<br>
-CVPR 2021, 
+CVPR 2021
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)] 
 [[Code](https://github.com/CompVis/taming-transformers)] 
 [[Project](https://compvis.github.io/taming-transformers/)]
@@ -43,7 +43,7 @@ ICCV 2021
 
 **TediGAN: Text-Guided Diverse Face Image Generation and Manipulation**<br>
 *Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu*<br>
-CVPR2021, 
+CVPR2021
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xia_TediGAN_Text-Guided_Diverse_Face_Image_Generation_and_Manipulation_CVPR_2021_paper.pdf)]
 [[Code](https://github.com/IIGROUP/TediGAN)]
 [[Video](https://www.youtube.com/watch?v=L8Na2f5viAM)]
@@ -54,11 +54,33 @@ CVPR2021,
 
 **MirrorGAN: Learning Text-to-image Generation by Redescription**<br>
 *Tingting Qiao, Jing Zhang, Duanqing Xu, Dacheng Tao*<br>
-CVPR 2019, 
+CVPR 2019
 [[Paper](https://arxiv.org/abs/1903.05854)]
 [[Code](https://github.com/qiaott/MirrorGAN)]
 
+**AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks**<br>
+*Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He*<br>
+CVPR 2018
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf)]
+[[Code](https://github.com/taoxugit/AttnGAN)]
 
+**Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space**<br>
+*Anh Nguyen, Jeff Clune, Yoshua Bengio, Alexey Dosovitskiy, Jason Yosinski*<br>
+CVPR 2017
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Nguyen_Plug__Play_CVPR_2017_paper.pdf)]
+[[Code](https://github.com/Evolving-AI-Lab/ppgn)]
+
+**StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks**<br>
+*Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas*<br>
+TPAMI 2018
+[[Paper](https://arxiv.org/abs/1710.10916)]
+[[Code](https://github.com/hanzhanggit/StackGAN-v2)]
+
+**StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks**<br>
+*Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas*<br>
+ICCV 2017
+[[Paper](https://arxiv.org/abs/1612.03242)]
+[[Code](https://github.com/hanzhanggit/StackGAN)]
 
 
 ## NeRF-based Methods
