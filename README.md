@@ -9,7 +9,7 @@
 
 
 ### TODO
-- MISE Dataset for multimodel image synthesis and editing
+<!-- - MISE Dataset for multimodel image synthesis and editing -->
 
 ## Transformer-based Methods
 
