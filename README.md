@@ -63,7 +63,10 @@ arxiv 2021
 [[Code](https://github.com/openai/DALL-E)]
 [[Project](https://openai.com/blog/dall-e/)]
 
-
+**One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning**<br>
+*Suzhen Wang, Lincheng Li, Yu Ding, Xin Yu*<br>
+AAAI 2022
+[[Paper](https://arxiv.org/abs/2112.02749)]
 
 <br>
 
