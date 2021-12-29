@@ -14,9 +14,8 @@
 <!-- - MISE Dataset for multimodel image synthesis and editing -->
 
 
-## Work in Progress
 
-## Table of Contents
+## Table of Contents (Work in Progress)
 
 **Methods:**
 <!-- ### Methods: -->
