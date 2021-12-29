@@ -42,6 +42,12 @@ arxiv 2021
 [[Code](https://github.com/microsoft/NUWA)] 
 [[Video](https://youtu.be/C9CTnZJ9ZE0)]
 
+**M6-UFC: Unifying Multi-Modal Controls for Conditional Image Synthesis**<br>
+*Zhu Zhang, Jianxin Ma, Chang Zhou, Rui Men, Zhikang Li, Ming Ding, Jie Tang, Jingren Zhou, Hongxia Yang*<br>
+NeurIPS 2021
+[[Paper](https://arxiv.org/abs/2105.14211v3)] 
+<!-- [[Project](https://compvis.github.io/imagebart/)] -->
+
 **ImageBART: Bidirectional Context with Multinomial Diffusion for Autoregressive Image Synthesis**<br>
 *Patrick Esser, Robin Rombach, Andreas Blattmann, Björn Ommer*<br>
 NeurIPS 2021
@@ -183,6 +189,16 @@ CVPR 2021
 
 
 ## GAN-based-Methods
+
+**Multimodal Conditional Image Synthesis with Product-of-Experts GANs**<br>
+*Xun Huang, Arun Mallya, Ting-Chun Wang, Ming-Yu Liu*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.05130)]
+
+**Multimodal Conditional Image Synthesis with Product-of-Experts GANs**<br>
+*Xun Huang, Arun Mallya, Ting-Chun Wang, Ming-Yu Liu*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.05130)]
 
 **RiFeGAN2: Rich Feature Generation for Text-to-Image Synthesis from Constrained Prior Knowledge**<br>
 *Jun Cheng, Fuxiang Wu, Yanling Tian, Lei Wang, Dapeng Tao*<br>
