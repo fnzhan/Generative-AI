@@ -152,6 +152,11 @@ WACV 2022
 [[Code](https://github.com/catlab-team/stylemc)]
 [[Project](https://catlab-team.github.io/stylemc/)]
 
+**Cycle-Consistent Inverse GAN for Text-to-Image Synthesis**<br>
+*Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao*<br>
+ACM MM 2021
+[[Paper](https://dl.acm.org/doi/10.1145/3474085.3475226)]
+
 **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**<br>
 *Or Patashnik, Zongze Wu, Eli Shechtman, Daniel Cohen-Or, Dani Lischinski*<br>
 ICCV 2021
