@@ -166,6 +166,17 @@ CVPR 2021
 
 ## GAN-based-Methods
 
+**Image Synthesis From Layout With Locality-Aware Mask Adaption**<br>
+*Zejian Li, Jingyu Wu, Immanuel Koh, Yongchuan Tang, Lingyun Sun*<br>
+GCPR 2021
+[[Paper](https://arxiv.org/pdf/2103.13722.pdf)]
+[[Code](https://github.com/stanifrolov/AttrLostGAN)]
+
+**AttrLostGAN: Attribute Controlled Image Synthesis from Reconfigurable Layout and Style**<br>
+*Stanislav Frolov, Avneesh Sharma, Jörn Hees, Tushar Karayil, Federico Raue, Andreas Dengel*<br>
+ICCV 2021
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Image_Synthesis_From_Layout_With_Locality-Aware_Mask_Adaption_ICCV_2021_paper.pdf)]
+
 **Audio-Driven Emotional Video Portraits**<br>
 *Xinya Ji, Hang Zhou, Kaisiyuan Wang, Wayne Wu, Chen Change Loy, Xun Cao, Feng Xu*<br>
 CVPR 2021
