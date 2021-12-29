@@ -166,7 +166,7 @@ CVPR 2021
 
 ## GAN-based-Methods
 
-**Image Synthesis From Layout With Locality-Aware Mask Adaption <span style="color:blue">[Layout2Image]</span>**<br>
+**Image Synthesis From Layout With Locality-Aware Mask Adaption [Layout2Image]**<br>
 *Zejian Li, Jingyu Wu, Immanuel Koh, Yongchuan Tang, Lingyun Sun*<br>
 GCPR 2021
 [[Paper](https://arxiv.org/pdf/2103.13722.pdf)]
