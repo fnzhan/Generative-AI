@@ -27,6 +27,11 @@
 - [Other Methods](#Other-Methods)
 
 
+**Modalities:**
+- TODO
+
+**Datasets:**
+- TODO
 
 ## Transformer-based-Methods
 
