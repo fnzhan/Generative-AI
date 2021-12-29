@@ -17,8 +17,7 @@
 
 ## Table of Contents
 
-Methods:
-
+**Methods:**<br>
 - [Transformer-based Methods](#Transformer-based-Methods) 
 - [NeRF-based Methods](#NeRF-based-Methods)
 - [Diffusion-based Methods](#Diffusion-based-Methods)
