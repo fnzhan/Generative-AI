@@ -37,6 +37,30 @@ arxiv 2021
 [[Project](https://openai.com/blog/dall-e/)]
 
 
+
+<br>
+
+
+## NeRF-based Methods
+
+**CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields**<br>
+*Can Wang, Menglei Chai, Mingming He, Dongdong Chen, Jing Liao*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.05139)]
+[[Code](https://github.com/cassiePython/CLIPNeRF)]
+[[Project](https://cassiepython.github.io/clipnerf/)]
+
+
+**AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis**<br>
+*Yudong Guo, Keyu Chen, Sen Liang, Yong-Jin Liu, Hujun Bao, Juyong Zhang*<br>
+ICCV 2021
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.pdf)]
+[[Code](https://github.com/YudongGuo/AD-NeRF)]
+[[Project](https://yudongguo.github.io/ADNeRF/)]
+[[Video](https://www.youtube.com/watch?v=TQO2EBYXLyU)]
+
+
+
 <br>
 
 
@@ -59,12 +83,16 @@ arxiv 2021
 arxiv 2021
 [[Paper](https://arxiv.org/abs/2110.02711)]
 
-
 **Blended Diffusion for Text-driven Editing of Natural Images**<br>
 *Omri Avrahami, Dani Lischinski, Ohad Fried*<br>
 arxiv 2021
 [[Paper](https://arxiv.org/abs/2111.14818)]
 [[Code](https://github.com/omriav/blended-diffusion)]
+
+
+
+<br>
+
 
 
 ## GAN Inversion Methods 
@@ -91,7 +119,7 @@ CVPR 2021
 [[Video](https://www.youtube.com/watch?v=L8Na2f5viAM)]
 
 
-
+<br>
 
 
 ## GAN-based Methods
@@ -134,12 +162,19 @@ ICCV 2017
 [[Code](https://github.com/hanzhanggit/StackGAN)]
 
 
-## NeRF-based Methods
 
-**AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis**<br>
-*Yudong Guo, Keyu Chen, Sen Liang, Yong-Jin Liu, Hujun Bao, Juyong Zhang*<br>
-ICCV 2021
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.pdf)]
-[[Code](https://github.com/YudongGuo/AD-NeRF)]
-[[Project](https://yudongguo.github.io/ADNeRF/)]
-[[Video](https://www.youtube.com/watch?v=TQO2EBYXLyU)]
+<br>
+
+
+## Other Methods
+
+**Language-Driven Image Style Transfer**<br>
+*Tsu-Jui Fu, Xin Eric Wang, William Yang Wang*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2106.00178)]
+
+**CLIPstyler: Image Style Transfer with a Single Text Condition**<br>
+*Gihyun Kwon, Jong Chul Ye*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.00374)]
+[[Code](https://github.com/paper11667/CLIPstyler)]
