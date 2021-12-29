@@ -189,7 +189,7 @@ TCSVT 2021
 ICONIP 2021
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_76)]
 
-**Image Synthesis From Layout With Locality-Aware Mask Adaption [Layout2Image]**<br>
+<!-- **Image Synthesis From Layout With Locality-Aware Mask Adaption [Layout2Image]**<br>
 *Zejian Li, Jingyu Wu, Immanuel Koh, Yongchuan Tang, Lingyun Sun*<br>
 GCPR 2021
 [[Paper](https://arxiv.org/pdf/2103.13722.pdf)]
@@ -198,7 +198,7 @@ GCPR 2021
 **AttrLostGAN: Attribute Controlled Image Synthesis from Reconfigurable Layout and Style [Layout2Image]**<br>
 *Stanislav Frolov, Avneesh Sharma, Jörn Hees, Tushar Karayil, Federico Raue, Andreas Dengel*<br>
 ICCV 2021
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Image_Synthesis_From_Layout_With_Locality-Aware_Mask_Adaption_ICCV_2021_paper.pdf)]
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Image_Synthesis_From_Layout_With_Locality-Aware_Mask_Adaption_ICCV_2021_paper.pdf)] -->
 
 **Audio-Driven Emotional Video Portraits [Audio2Image]**<br>
 *Xinya Ji, Hang Zhou, Kaisiyuan Wang, Wayne Wu, Chen Change Loy, Xun Cao, Feng Xu*<br>
