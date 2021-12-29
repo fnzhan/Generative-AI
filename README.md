@@ -10,8 +10,15 @@
 
 ![Teaser](teaser.png)
 
-### TODO
+<!-- ### TODO -->
 <!-- - MISE Dataset for multimodel image synthesis and editing -->
+
+## Table of Contents
+
+- [Transformer-based Methods](#transformer-based methods) 
+- [Papers](#papers)
+- [Talks](#talks)
+
 
 ## Transformer-based Methods
 
