@@ -37,6 +37,35 @@ arxiv 2021
 [[Project](https://openai.com/blog/dall-e/)]
 
 
+
+
+## Diffusion-based Methods
+
+**GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models**<br>
+*Alex Nichol, Prafulla Dhariwal, Aditya Ramesh, Pranav Shyam, Pamela Mishkin, Bob McGrew, Ilya Sutskever, Mark Chen*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.10741)]
+[[Code](https://github.com/openai/glide-text2im)]
+
+**Vector Quantized Diffusion Model for Text-to-Image Synthesis**<br>
+*Shuyang Gu, Dong Chen, Jianmin Bao, Fang Wen, Bo Zhang, Dongdong Chen, Lu Yuan, Baining Guo*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2111.14822)]
+[[Code](https://github.com/microsoft/VQ-Diffusion)]
+
+**DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation**<br>
+*Gwanghyun Kim, Jong Chul Ye*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2110.02711)]
+
+
+**Blended Diffusion for Text-driven Editing of Natural Images**<br>
+*Omri Avrahami, Dani Lischinski, Ohad Fried*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2111.14818)]
+[[Code](https://github.com/omriav/blended-diffusion)]
+
+
 ## GAN Inversion Methods 
 
 **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**<br>
@@ -55,10 +84,12 @@ ICCV 2021
 
 **TediGAN: Text-Guided Diverse Face Image Generation and Manipulation**<br>
 *Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu*<br>
-CVPR2021
+CVPR 2021
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xia_TediGAN_Text-Guided_Diverse_Face_Image_Generation_and_Manipulation_CVPR_2021_paper.pdf)]
 [[Code](https://github.com/IIGROUP/TediGAN)]
 [[Video](https://www.youtube.com/watch?v=L8Na2f5viAM)]
+
+
 
 
 
