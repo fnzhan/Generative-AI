@@ -13,8 +13,8 @@
 <!-- ### TODO -->
 <!-- - MISE Dataset for multimodel image synthesis and editing -->
 
-This project is associated with our survey paper, please refer to:
-<b>Multimodal Image Synthesis and Editing: A Survey</b> ([Paper](https://arxiv.org/abs/2112.13592))
+This project is associated with our survey paper, please refer to: <br>
+**Multimodal Image Synthesis and Editing: A Survey** [[Paper](https://arxiv.org/abs/2112.13592)]
 <!-- We start with an introduction to different types of guidance modalities in image synthesis and editing.  -->
 Fangneng Zhan, Yingchen Yu, Rongliang Wu, Jiahui Zhang, Shijian Lu
 
