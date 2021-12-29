@@ -145,6 +145,11 @@ arxiv 2021
 
 ## GAN-Inversion-Methods 
 
+**Paint by Word**<br>
+*David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.01573)]
+
 **FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+ GAN Space Optimization**<br>
 *Xingchao Liu, Chengyue Gong, Lemeng Wu, Shujian Zhang, Hao Su, Qiang Liu*<br>
 arxiv 2021
