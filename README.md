@@ -17,7 +17,7 @@ This project is associated with our survey paper which comprehensively contextua
 <!-- For more details, please refer to: <br> -->
 
 **Multimodal Image Synthesis and Editing: A Survey** » [[Paper](https://arxiv.org/abs/2112.13592)] <br>
-Fangneng Zhan, Yingchen Yu, Rongliang Wu, Jiahui Zhang, Shijian Lu
+[Fangneng Zhan](http://fnzhan.net/), [Yingchen Yu](https://yingchen001.github.io/), [Rongliang Wu](https://scholar.google.com.sg/citations?user=SZkh3iAAAAAJ&hl=en), [Jiahui Zhang](https://scholar.google.com/citations?user=DXpYbWkAAAAJ&hl=zh-CN), [Shijian Lu](https://scholar.google.com.sg/citations?user=uYmK-A0AAAAJ&hl=en)
 
 
 ## Table of Contents (Work in Progress)
