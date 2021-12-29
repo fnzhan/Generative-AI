@@ -37,6 +37,7 @@ arxiv 2021
 [[Project](https://openai.com/blog/dall-e/)]
 
 
+<br><br>
 
 
 ## Diffusion-based Methods
