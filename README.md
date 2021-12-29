@@ -33,6 +33,13 @@ arxiv 2021
 [[Code](https://github.com/microsoft/NUWA)] 
 [[Video](https://youtu.be/C9CTnZJ9ZE0)]
 
+**ImageBART: Bidirectional Context with Multinomial Diffusion for Autoregressive Image Synthesis**<br>
+*Patrick Esser, Robin Rombach, Andreas Blattmann, Björn Ommer*<br>
+NeurIPS 2021
+[[Paper](https://openreview.net/pdf?id=-1AAgrS5FF)] 
+[[Code](https://github.com/CompVis/imagebart)] 
+[[Project](https://compvis.github.io/imagebart/)]
+
 **Taming Transformers for High-Resolution Image Synthesis**<br>
 *Patrick Esser, Robin Rombach, Björn Ommer*<br>
 CVPR 2021
