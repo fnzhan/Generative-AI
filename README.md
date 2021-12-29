@@ -14,25 +14,15 @@
 <!-- - MISE Dataset for multimodel image synthesis and editing -->
 
 
-## Table of Contents
-
-- [Survey](#survey) 
-- [Papers](#papers)
-- [Talks](#talks)
-
-## Survey
-- [Neural Volume Rendering: NeRF And Beyond](https://arxiv.org/abs/2101.05204), Dellaert and Yen-Chen, Arxiv 2020 | [blog](https://dellaert.github.io/NeRF/) | [github](https://raw.githubusercontent.com/yenchenlin/awesome-NeRF/main/NeRF-and-Beyond.bib) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/nerf-survey.txt)
-
-
 
 ## Table of Contents
 
-- [Transformer-based Methods](#transformer-based methods) 
+- [Transformer-based Methods](#transformer-based-methods) 
 - [Papers](#papers)
 - [Talks](#talks)
 
 
-## Transformer-based Methods
+## Transformer-based-Methods
 
 **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**<br>
 *Chenfei Wu, Jian Liang, Lei Ji, Fan Yang, Yuejian Fang, Daxin Jiang, Nan Duan*<br>
