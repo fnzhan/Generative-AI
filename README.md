@@ -14,7 +14,8 @@
 <!-- - MISE Dataset for multimodel image synthesis and editing -->
 
 This project is associated with our survey paper. For more details, please refer to: <br>
-**Multimodal Image Synthesis and Editing: A Survey** [[Paper](https://arxiv.org/abs/2112.13592)]
+
+**Multimodal Image Synthesis and Editing: A Survey** [[Paper](https://arxiv.org/abs/2112.13592)] <br>
 Fangneng Zhan, Yingchen Yu, Rongliang Wu, Jiahui Zhang, Shijian Lu
 
 
