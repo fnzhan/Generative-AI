@@ -63,6 +63,12 @@ arxiv 2021
 [[Code](https://github.com/openai/DALL-E)]
 [[Project](https://openai.com/blog/dall-e/)]
 
+**Compositional Transformers for Scene Generation**<br>
+*Drew A. Hudson, C. Lawrence Zitnick*<br>
+NeurIPS 2021
+[[Paper](https://openreview.net/pdf?id=YQeWoRnwTnE)]
+[[Code](https://github.com/dorarad/gansformer)]
+
 **One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning**<br>
 *Suzhen Wang, Lincheng Li, Yu Ding, Xin Yu*<br>
 AAAI 2022
