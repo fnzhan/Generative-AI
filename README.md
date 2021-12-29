@@ -17,12 +17,16 @@
 
 ## Table of Contents
 
+Methods:
+
 - [Transformer-based Methods](#Transformer-based-Methods) 
 - [NeRF-based Methods](#NeRF-based-Methods)
 - [Diffusion-based Methods](#Diffusion-based-Methods)
 - [GAN-Inversion Methods](#GAN-Inversion-Methods)
 - [GAN-based Methods](#GAN-based-Methods)
 - [Other Methods](#Other-Methods)
+
+
 
 ## Transformer-based-Methods
 
