@@ -139,6 +139,19 @@ arxiv 2021
 
 ## GAN-Inversion-Methods 
 
+**FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+ GAN Space Optimization**<br>
+*Xingchao Liu, Chengyue Gong, Lemeng Wu, Shujian Zhang, Hao Su, Qiang Liu*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.01573)]
+[[Code](https://github.com/gnobitab/FuseDream)]
+
+**StyleMC: Multi-Channel Based Fast Text-Guided Image Generation and Manipulation**<br>
+*Umut Kocasari, Alara Dirik, Mert Tiftikci, Pinar Yanardag*<br>
+WACV 2022
+[[Paper](https://arxiv.org/abs/2112.08493)]
+[[Code](https://github.com/catlab-team/stylemc)]
+[[Project](https://catlab-team.github.io/stylemc/)]
+
 **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**<br>
 *Or Patashnik, Zongze Wu, Eli Shechtman, Daniel Cohen-Or, Dani Lischinski*<br>
 ICCV 2021
@@ -165,6 +178,16 @@ CVPR 2021
 
 
 ## GAN-based-Methods
+
+**RiFeGAN2: Rich Feature Generation for Text-to-Image Synthesis from Constrained Prior Knowledge**<br>
+*Jun Cheng, Fuxiang Wu, Yanling Tian, Lei Wang, Dapeng Tao*<br>
+TCSVT 2021
+[[Paper](https://ieeexplore.ieee.org/abstract/document/9656731/authors#authors)]
+
+**TRGAN: Text to Image Generation Through Optimizing Initial Image**<br>
+*Liang Zhao, Xinwei Li, Pingda Huang, Zhikui Chen, Yanqi Dai, Tianyu Li*<br>
+ICONIP 2021
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_76)]
 
 **Image Synthesis From Layout With Locality-Aware Mask Adaption [Layout2Image]**<br>
 *Zejian Li, Jingyu Wu, Immanuel Koh, Yongchuan Tang, Lingyun Sun*<br>
