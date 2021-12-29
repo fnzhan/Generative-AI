@@ -70,6 +70,12 @@ arxiv 2021
 
 ## NeRF-based-Methods
 
+**Zero-Shot Text-Guided Object Generation with Dream Fields**<br>
+*Ajay Jain, Ben Mildenhall, Jonathan T. Barron, Pieter Abbeel, Ben Poole*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.01455)]
+[[Project](https://ajayj.com/dreamfields)]
+
 **CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields**<br>
 *Can Wang, Menglei Chai, Mingming He, Dongdong Chen, Jing Liao*<br>
 arxiv 2021
