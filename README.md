@@ -212,6 +212,13 @@ CVPR 2021
 [[Code](https://github.com/jixinya/EVP/)]
 [[Project](https://jixinya.github.io/projects/evp/)]
 
+**Direct Speech-to-Image Translation [Audio2Image]**<br>
+*Jiguo Li, Xinfeng Zhang, Chuanmin Jia, Jizheng Xu, Li Zhang, Yue Wang, Siwei Ma, Wen Gao*<br>
+JSTSP 2020
+[[Paper](https://ieeexplore.ieee.org/document/9067083/authors#authors)]
+[[Code](https://github.com/smallflyingpig/speech-to-image-translation-without-text)]
+[[Project](https://smallflyingpig.github.io/speech-to-image/main)]
+
 **MirrorGAN: Learning Text-to-image Generation by Redescription [Text2Image]**<br>
 *Tingting Qiao, Jing Zhang, Duanqing Xu, Dacheng Tao*<br>
 CVPR 2019
