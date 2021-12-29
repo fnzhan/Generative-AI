@@ -18,8 +18,9 @@
 ## Table of Contents
 
 - [Transformer-based Methods](#transformer-based-methods) 
-- [Papers](#papers)
-- [Talks](#talks)
+- [NeRF-based Methods](#nerf-based-methods)
+- [Diffusion-based Methods](#diffusion-based-methods)
+- [GAN-Inversion Methods](#GAN-Inversion-Methods)
 
 
 ## Transformer-based-Methods
@@ -50,7 +51,7 @@ arxiv 2021
 <br>
 
 
-## NeRF-based Methods
+## NeRF-based-Methods
 
 **CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields**<br>
 *Can Wang, Menglei Chai, Mingming He, Dongdong Chen, Jing Liao*<br>
@@ -73,7 +74,7 @@ ICCV 2021
 <br>
 
 
-## Diffusion-based Methods
+## Diffusion-based-Methods
 
 **GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models**<br>
 *Alex Nichol, Prafulla Dhariwal, Aditya Ramesh, Pranav Shyam, Pamela Mishkin, Bob McGrew, Ilya Sutskever, Mark Chen*<br>
@@ -104,7 +105,7 @@ arxiv 2021
 
 
 
-## GAN Inversion Methods 
+## GAN-Inversion-Methods 
 
 **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**<br>
 *Or Patashnik, Zongze Wu, Eli Shechtman, Daniel Cohen-Or, Dani Lischinski*<br>
@@ -131,7 +132,7 @@ CVPR 2021
 <br>
 
 
-## GAN-based Methods
+## GAN-based-Methods
 
 **Audio-Driven Emotional Video Portraits**<br>
 *Xinya Ji, Hang Zhou, Kaisiyuan Wang, Wayne Wu, Chen Change Loy, Xun Cao, Feng Xu*<br>
@@ -175,7 +176,7 @@ ICCV 2017
 <br>
 
 
-## Other Methods
+## Other-Methods
 
 **Language-Driven Image Style Transfer**<br>
 *Tsu-Jui Fu, Xin Eric Wang, William Yang Wang*<br>
