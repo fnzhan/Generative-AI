@@ -16,7 +16,7 @@
 This project is associated with our survey paper which comprehensively contextualizes the advance of the recent Multimodal Image Synthesis \& Editing (MISE) and formulates taxonomies according to data modality and model architectures.
 <!-- For more details, please refer to: <br> -->
 
-**Multimodal Image Synthesis and Editing: A Survey** <pre> [[Paper](https://arxiv.org/abs/2112.13592)] <br>
+**Multimodal Image Synthesis and Editing: A Survey** » [[Paper](https://arxiv.org/abs/2112.13592)] <br>
 Fangneng Zhan, Yingchen Yu, Rongliang Wu, Jiahui Zhang, Shijian Lu
 
 
