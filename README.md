@@ -166,31 +166,31 @@ CVPR 2021
 
 ## GAN-based-Methods
 
-**Image Synthesis From Layout With Locality-Aware Mask Adaption**<br>
+**Image Synthesis From Layout With Locality-Aware Mask Adaption [Layout2Image]**<br>
 *Zejian Li, Jingyu Wu, Immanuel Koh, Yongchuan Tang, Lingyun Sun*<br>
 GCPR 2021
 [[Paper](https://arxiv.org/pdf/2103.13722.pdf)]
 [[Code](https://github.com/stanifrolov/AttrLostGAN)]
 
-**AttrLostGAN: Attribute Controlled Image Synthesis from Reconfigurable Layout and Style**<br>
+**AttrLostGAN: Attribute Controlled Image Synthesis from Reconfigurable Layout and Style [Layout2Image]**<br>
 *Stanislav Frolov, Avneesh Sharma, Jörn Hees, Tushar Karayil, Federico Raue, Andreas Dengel*<br>
 ICCV 2021
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Image_Synthesis_From_Layout_With_Locality-Aware_Mask_Adaption_ICCV_2021_paper.pdf)]
 
-**Audio-Driven Emotional Video Portraits**<br>
+**Audio-Driven Emotional Video Portraits [Audio2Image]**<br>
 *Xinya Ji, Hang Zhou, Kaisiyuan Wang, Wayne Wu, Chen Change Loy, Xun Cao, Feng Xu*<br>
 CVPR 2021
 [[Paper](https://arxiv.org/abs/2104.07452)]
 [[Code](https://github.com/jixinya/EVP/)]
 [[Project](https://jixinya.github.io/projects/evp/)]
 
-**MirrorGAN: Learning Text-to-image Generation by Redescription**<br>
+**MirrorGAN: Learning Text-to-image Generation by Redescription [Text2Image]**<br>
 *Tingting Qiao, Jing Zhang, Duanqing Xu, Dacheng Tao*<br>
 CVPR 2019
 [[Paper](https://arxiv.org/abs/1903.05854)]
 [[Code](https://github.com/qiaott/MirrorGAN)]
 
-**AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks**<br>
+**AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks [Text2Image]**<br>
 *Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He*<br>
 CVPR 2018
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf)]
@@ -202,13 +202,13 @@ CVPR 2017
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Nguyen_Plug__Play_CVPR_2017_paper.pdf)]
 [[Code](https://github.com/Evolving-AI-Lab/ppgn)]
 
-**StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks**<br>
+**StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks [Text2Image]**<br>
 *Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas*<br>
 TPAMI 2018
 [[Paper](https://arxiv.org/abs/1710.10916)]
 [[Code](https://github.com/hanzhanggit/StackGAN-v2)]
 
-**StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks**<br>
+**StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks [Text2Image]**<br>
 *Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas*<br>
 ICCV 2017
 [[Paper](https://arxiv.org/abs/1612.03242)]
