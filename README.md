@@ -145,10 +145,11 @@ arxiv 2021
 
 ## GAN-Inversion-Methods 
 
-**Paint by Word**<br>
-*David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba*<br>
+**HairCLIP: Design Your Hair by Text and Reference Image**<br>
+*Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Zhentao Tan, Lu Yuan, Weiming Zhang, Nenghai Yu*<br>
 arxiv 2021
-[[Paper](https://arxiv.org/abs/2112.01573)]
+[[Paper](https://arxiv.org/abs/2112.05142)]
+[[Code](https://github.com/wty-ustc/HairCLIP)]
 
 **FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+ GAN Space Optimization**<br>
 *Xingchao Liu, Chengyue Gong, Lemeng Wu, Shujian Zhang, Hao Su, Qiang Liu*<br>
@@ -189,6 +190,10 @@ CVPR 2021
 [[Code](https://github.com/IIGROUP/TediGAN)]
 [[Video](https://www.youtube.com/watch?v=L8Na2f5viAM)]
 
+**Paint by Word**<br>
+*David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.01573)]
 
 <br>
 
