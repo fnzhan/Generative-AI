@@ -195,11 +195,6 @@ CVPR 2021
 arxiv 2021
 [[Paper](https://arxiv.org/abs/2112.05130)]
 
-**Multimodal Conditional Image Synthesis with Product-of-Experts GANs**<br>
-*Xun Huang, Arun Mallya, Ting-Chun Wang, Ming-Yu Liu*<br>
-arxiv 2021
-[[Paper](https://arxiv.org/abs/2112.05130)]
-
 **RiFeGAN2: Rich Feature Generation for Text-to-Image Synthesis from Constrained Prior Knowledge**<br>
 *Jun Cheng, Fuxiang Wu, Yanling Tian, Lei Wang, Dapeng Tao*<br>
 TCSVT 2021
