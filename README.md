@@ -31,14 +31,21 @@ This project is associated with our survey paper which comprehensively contextua
 - [GAN-based Methods](#GAN-based-Methods)
 - [Other Methods](#Other-Methods)
 
-
 **Modalities:**
-- TODO
+- [Text Encoding](#Text-Encoding)
 
 **Datasets:**
 - TODO
 
+
+
 ## Transformer-based-Methods
+
+**ERNIE-ViLG: Unified Generative Pre-training for Bidirectional Vision-Language Generation**<br>
+*Han Zhang, Weichong Yin, Yewei Fang, Lanxin Li, Boqiang Duan, Zhihua Wu, Yu Sun, Hao Tian, Hua Wu, Haifeng Wang*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.15283)] 
+[[Project](https://wenxin.baidu.com/wenxin/ernie-vilg)]
 
 **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**<br>
 *Chenfei Wu, Jian Liang, Lei Ji, Fan Yang, Yuejian Fang, Daxin Jiang, Nan Duan*<br>
@@ -292,3 +299,22 @@ arxiv 2021
 arxiv 2021
 [[Paper](https://arxiv.org/abs/2112.00374)]
 [[Code](https://github.com/paper11667/CLIPstyler)]
+
+
+
+
+
+
+## Text-Encoding
+
+**FLAVA: A Foundational Language And Vision Alignment Model**<br>
+*Amanpreet Singh, Ronghang Hu, Vedanuj Goswami, Guillaume Couairon, Wojciech Galuba, Marcus Rohrbach, Douwe Kiela*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.04482)]
+<!-- [[Code](https://github.com/paper11667/CLIPstyler)] -->
+
+**Learning Transferable Visual Models From Natural Language Supervision (CLIP)**<br>
+*Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2103.00020)]
+[[Code](https://github.com/OpenAI/CLIP)]
