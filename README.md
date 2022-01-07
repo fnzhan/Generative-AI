@@ -54,6 +54,13 @@ arxiv 2021
 [[Code](https://github.com/microsoft/NUWA)] 
 [[Video](https://youtu.be/C9CTnZJ9ZE0)]
 
+**L-Verse: Bidirectional Generation Between Image and Text**<br>
+*Taehoon Kim, Gwangmo Song, Sihaeng Lee, Sangyun Kim, Yewon Seo, Soonyoung Lee, Seung Hwan Kim, Honglak Lee, Kyunghoon Bae*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2111.11133)] 
+[[Code](https://github.com/tgisaturday/L-Verse)] 
+<!-- [[Video](https://youtu.be/C9CTnZJ9ZE0)] -->
+
 **M6-UFC: Unifying Multi-Modal Controls for Conditional Image Synthesis**<br>
 *Zhu Zhang, Jianxin Ma, Chang Zhou, Rui Men, Zhikang Li, Ming Ding, Jie Tang, Jingren Zhou, Hongxia Yang*<br>
 NeurIPS 2021
