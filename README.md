@@ -116,11 +116,11 @@ CVPR 2021
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)]
 [[Code](https://github.com/CompVis/taming-transformers)]
 
-**[VQ-GAN] Taming Transformers for High-Resolution Image Synthesis**<br>
-*Patrick Esser, Robin Rombach, Björn Ommer*<br>
-CVPR 2021
-[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)]
-[[Code](https://github.com/CompVis/taming-transformers)]
+**[Gumbel-VQ] vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations**<br>
+*Alexei Baevski, Steffen Schneider, Michael Auli*<br>
+ICLR 2020
+[[Paper](https://openreview.net/pdf?id=rylwJxrYDS)]
+[[Code](https://github.com/pytorch/fairseq/blob/main/examples/wav2vec/README.md)]
 
 **[VQ-VAE] Neural Discrete Representation Learning**<br>
 *Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu*<br>
