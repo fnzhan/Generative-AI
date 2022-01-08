@@ -25,7 +25,7 @@ This project is associated with our survey paper which comprehensively contextua
 **Methods:**
 <!-- ### Methods: -->
 - [Transformer-based Methods](#Transformer-based-Methods) 
-  - [Image Quantization](#Image-Quantization)
+  - [Image Tokenizer](#Image-Tokenizer)
 - [NeRF-based Methods](#NeRF-based-Methods)
 - [Diffusion-based Methods](#Diffusion-based-Methods)
 - [GAN-Inversion Methods](#GAN-Inversion-Methods)
@@ -101,6 +101,14 @@ AAAI 2022
 [[Paper](https://arxiv.org/abs/2112.02749)]
 
 <br>
+
+### Image-Tokenizer
+
+**Neural Discrete Representation Learning (VQ-VAE)**<br>
+*Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu*<br>
+NIPS 2017
+[[Paper](https://proceedings.neurips.cc/paper/2017/file/7a98af17e63a0ac09ce2e96d03992fbc-Paper.pdf)]
+[[Code](https://github.com/ritheshkumar95/pytorch-vqvae)]
 
 
 ## NeRF-based-Methods
