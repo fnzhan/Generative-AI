@@ -25,7 +25,7 @@ This project is associated with our survey paper which comprehensively contextua
 **Methods:**
 <!-- ### Methods: -->
 - [Transformer-based Methods](#Transformer-based-Methods) 
-  - [Image Tokenizer](#Image-Tokenizer)
+  - [Image Quantizer](#Image-Quantizer)
 - [NeRF-based Methods](#NeRF-based-Methods)
 - [Diffusion-based Methods](#Diffusion-based-Methods)
 - [GAN-Inversion Methods](#GAN-Inversion-Methods)
@@ -102,7 +102,13 @@ AAAI 2022
 
 <br>
 
-### Image-Tokenizer
+### Image-Quantizer
+
+**[TE-VQGAN] Translation-equivariant Image Quantizer for Bi-directional Image-Text Generation**<br>
+*Woncheol Shin, Gyubok Lee, Jiyoung Lee, Joonseok Lee, Edward Choi*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2110.04627)]
+[[Code](https://github.com/wcshin-git/TE-VQGAN)]
 
 **[ViT-VQGAN] Vector-quantized Image Modeling with Improved VQGAN**<br>
 *Jiahui Yu, Xin Li, Jing Yu Koh, Han Zhang, Ruoming Pang, James Qin, Alexander Ku, Yuanzhong Xu, Jason Baldridge, Yonghui Wu*<br>
