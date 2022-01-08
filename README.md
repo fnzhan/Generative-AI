@@ -25,7 +25,7 @@ This project is associated with our survey paper which comprehensively contextua
 **Methods:**
 <!-- ### Methods: -->
 - [Transformer-based Methods](#Transformer-based-Methods) 
--- [Image Quantization](#Image-Quantization)
+  - [Image Quantization](#Image-Quantization)
 - [NeRF-based Methods](#NeRF-based-Methods)
 - [Diffusion-based Methods](#Diffusion-based-Methods)
 - [GAN-Inversion Methods](#GAN-Inversion-Methods)
