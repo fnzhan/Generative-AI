@@ -104,6 +104,24 @@ AAAI 2022
 
 ### Image-Tokenizer
 
+**[ViT-VQGAN] Vector-quantized Image Modeling with Improved VQGAN**<br>
+*Jiahui Yu, Xin Li, Jing Yu Koh, Han Zhang, Ruoming Pang, James Qin, Alexander Ku, Yuanzhong Xu, Jason Baldridge, Yonghui Wu*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2110.04627)]
+<!-- [[Code](https://github.com/CompVis/taming-transformers)] -->
+
+**[VQ-GAN] Taming Transformers for High-Resolution Image Synthesis**<br>
+*Patrick Esser, Robin Rombach, Björn Ommer*<br>
+CVPR 2021
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)]
+[[Code](https://github.com/CompVis/taming-transformers)]
+
+**[VQ-GAN] Taming Transformers for High-Resolution Image Synthesis**<br>
+*Patrick Esser, Robin Rombach, Björn Ommer*<br>
+CVPR 2021
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)]
+[[Code](https://github.com/CompVis/taming-transformers)]
+
 **[VQ-VAE] Neural Discrete Representation Learning**<br>
 *Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu*<br>
 NIPS 2017
@@ -128,7 +146,7 @@ ICML 2018
 [[Paper](https://arxiv.org/abs/1802.04920)]
 [[Code](https://github.com/xmax1/dvae)]
 
-**[DVAE#] DVAE++: Discrete Variational Autoencoders with Overlapping Transformations**<br>
+**[DVAE#] DVAE#: Discrete Variational Autoencoders with Relaxed Boltzmann Priors**<br>
 *Arash Vahdat, Evgeny Andriyash, William G. Macready*<br>
 NIPS 2018
 [[Paper](https://arxiv.org/abs/1805.07445)]
