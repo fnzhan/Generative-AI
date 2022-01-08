@@ -104,7 +104,7 @@ AAAI 2022
 
 ### Image-Tokenizer
 
-**Neural Discrete Representation Learning (VQ-VAE)**<br>
+**[VQ-VAE] Neural Discrete Representation Learning**<br>
 *Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu*<br>
 NIPS 2017
 [[Paper](https://proceedings.neurips.cc/paper/2017/file/7a98af17e63a0ac09ce2e96d03992fbc-Paper.pdf)]
