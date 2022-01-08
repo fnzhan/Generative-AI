@@ -110,6 +110,32 @@ NIPS 2017
 [[Paper](https://proceedings.neurips.cc/paper/2017/file/7a98af17e63a0ac09ce2e96d03992fbc-Paper.pdf)]
 [[Code](https://github.com/ritheshkumar95/pytorch-vqvae)]
 
+**[VQ-VAE2 or EMA-VQ] Generating Diverse High-Fidelity Images with VQ-VAE-2**<br>
+*Ali Razavi, Aaron van den Oord, Oriol Vinyals*<br>
+NIPS 2019
+[[Paper](https://proceedings.neurips.cc/paper/2019/file/5f8e2fa1718d1bbcadf1cd9c7a54fb8c-Paper.pdf)]
+[[Code](https://github.com/rosinality/vq-vae-2-pytorch)]
+
+**[Discrete VAE] Discrete Variational Autoencoders**<br>
+*Jason Tyler Rolfe*<br>
+ICLR 2017
+[[Paper](https://arxiv.org/abs/1609.02200)]
+[[Code](https://github.com/openai/DALL-E)]
+
+**[DVAE++] DVAE++: Discrete Variational Autoencoders with Overlapping Transformations**<br>
+*Arash Vahdat, William G. Macready, Zhengbing Bian, Amir Khoshaman, Evgeny Andriyash*<br>
+ICML 2018
+[[Paper](https://arxiv.org/abs/1802.04920)]
+[[Code](https://github.com/xmax1/dvae)]
+
+**[DVAE#] DVAE++: Discrete Variational Autoencoders with Overlapping Transformations**<br>
+*Arash Vahdat, Evgeny Andriyash, William G. Macready*<br>
+NIPS 2018
+[[Paper](https://arxiv.org/abs/1805.07445)]
+[[Code](https://github.com/xmax1/dvae)]
+
+<br>
+
 
 ## NeRF-based-Methods
 
