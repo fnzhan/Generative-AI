@@ -192,6 +192,16 @@ ICCV 2021
 
 ## Diffusion-based-Methods
 
+**High-Resolution Image Synthesis with Latent Diffusion Models**<br>
+*Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.10752)]
+[[Code](https://github.com/CompVis/latent-diffusion)]
+
+**v objective diffusion**<br>
+*Katherine Crowson*<br>
+[[Code](https://github.com/crowsonkb/v-diffusion-pytorch)]
+
 **GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models**<br>
 *Alex Nichol, Prafulla Dhariwal, Aditya Ramesh, Pranav Shyam, Pamela Mishkin, Bob McGrew, Ilya Sutskever, Mark Chen*<br>
 arxiv 2021
