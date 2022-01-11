@@ -82,6 +82,17 @@ CVPR 2021
 [[Code](https://github.com/CompVis/taming-transformers)] 
 [[Project](https://compvis.github.io/taming-transformers/)]
 
+**RuDOLPH: One Hyper-Modal Transformer can be creative as DALL-E and smart as CLIP**<br>
+*Alex Shonenkov and Michael Konstantinov*<br>
+arxiv 2022
+[[Code](https://github.com/sberbank-ai/ru-dolph)]
+
+**Generate Images from Texts in Russian (ruDALL-E)**<br>
+<!-- *Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever*<br> -->
+<!-- [[Paper](https://arxiv.org/pdf/2112.02448.pdf)] -->
+[[Code](https://github.com/sberbank-ai/ru-dalle)]
+[[Project](https://rudalle.ru/en/)]
+
 **Zero-Shot Text-to-Image Generation**<br>
 *Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever*<br>
 arxiv 2021
