@@ -128,7 +128,7 @@ arxiv 2021
 <!-- [[Code](https://github.com/CompVis/taming-transformers)] -->
 
 **[PeCo] PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers**<br>
-*Jiahui Yu, Xin Li, Jing Yu Koh, Han Zhang, Ruoming Pang, James Qin, Alexander Ku, Yuanzhong Xu, Jason Baldridge, Yonghui Wu*<br>
+*Xiaoyi Dong, Jianmin Bao, Ting Zhang, Dongdong Chen, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu*<br>
 arxiv 2021
 [[Paper](https://arxiv.org/abs/2111.12710)]
 <!-- [[Code](https://github.com/CompVis/taming-transformers)] -->
