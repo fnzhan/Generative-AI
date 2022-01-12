@@ -127,6 +127,12 @@ arxiv 2021
 [[Paper](https://arxiv.org/abs/2110.04627)]
 <!-- [[Code](https://github.com/CompVis/taming-transformers)] -->
 
+**[PeCo] PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers**<br>
+*Jiahui Yu, Xin Li, Jing Yu Koh, Han Zhang, Ruoming Pang, James Qin, Alexander Ku, Yuanzhong Xu, Jason Baldridge, Yonghui Wu*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2111.12710)]
+<!-- [[Code](https://github.com/CompVis/taming-transformers)] -->
+
 **[VQ-GAN] Taming Transformers for High-Resolution Image Synthesis**<br>
 *Patrick Esser, Robin Rombach, Björn Ommer*<br>
 CVPR 2021
