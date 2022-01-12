@@ -34,6 +34,8 @@ This project is associated with our survey paper which comprehensively contextua
 
 **Modalities:**
 - [Text Encoding](#Text-Encoding)
+- [Audio Encoding](#Audio-Encoding)
+
 
 **Datasets:**
 - TODO
@@ -408,3 +410,15 @@ arxiv 2021
 arxiv 2021
 [[Paper](https://arxiv.org/abs/2103.00020)]
 [[Code](https://github.com/OpenAI/CLIP)]
+
+
+<br>
+
+
+## Audio-Encoding
+
+**Wav2CLIP: Learning Robust Audio Representations From CLIP (Wav2CLIP)**<br>
+*Ho-Hsiang Wu, Prem Seetharaman, Kundan Kumar, Juan Pablo Bello*<br>
+ICASSP 2022
+[[Paper](https://arxiv.org/abs/2110.11499)]
+[[Code](https://github.com/descriptinc/lyrebird-wav2clip)]
