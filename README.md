@@ -145,6 +145,12 @@ ICLR 2020
 [[Paper](https://openreview.net/pdf?id=rylwJxrYDS)]
 [[Code](https://github.com/pytorch/fairseq/blob/main/examples/wav2vec/README.md)]
 
+**[EM VQ-VAE] Theory and Experiments on Vector Quantized Autoencoders**<br>
+*Aurko Roy, Ashish Vaswani, Arvind Neelakantan, Niki Parmar*<br>
+arxiv 2018
+[[Paper](https://arxiv.org/abs/1805.11063)]
+[[Code](https://github.com/jaywalnut310/Vector-Quantized-Autoencoders)]
+
 **[VQ-VAE] Neural Discrete Representation Learning**<br>
 *Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu*<br>
 NIPS 2017
