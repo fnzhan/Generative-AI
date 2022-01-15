@@ -311,6 +311,11 @@ arxiv 2021
 
 ## GAN-based-Methods
 
+**GauGAN2**<br>
+*NVIDIA*<br>
+[[Project](http://gaugan.org/gaugan2/)]
+[[Video](https://www.youtube.com/watch?v=p9MAvRpT6Cg)]
+
 **Multimodal Conditional Image Synthesis with Product-of-Experts GANs**<br>
 *Xun Huang, Arun Mallya, Ting-Chun Wang, Ming-Yu Liu*<br>
 arxiv 2021
