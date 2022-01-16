@@ -77,6 +77,18 @@ NeurIPS 2021
 [[Code](https://github.com/CompVis/imagebart)] 
 [[Project](https://compvis.github.io/imagebart/)]
 
+**A Picture is Worth a Thousand Words: A Unified System for Diverse Captions and Rich Images Generation**<br>
+*Yupan Huang, Bei Liu, Jianlong Fu, Yutong Lu*<br>
+ACM MM 2021
+[[Paper](https://arxiv.org/abs/2110.09756)] 
+[[Code](https://github.com/researchmm/generate-it)] 
+
+**Unifying Multimodal Transformer for Bi-directional Image and Text Generation**<br>
+*Yupan Huang, Hongwei Xue, Bei Liu, Yutong Lu*<br>
+ACM MM 2021
+[[Paper](https://arxiv.org/abs/2110.09753)] 
+[[Code](https://github.com/researchmm/generate-it)] 
+
 **Taming Transformers for High-Resolution Image Synthesis**<br>
 *Patrick Esser, Robin Rombach, Björn Ommer*<br>
 CVPR 2021
@@ -105,6 +117,12 @@ arxiv 2021
 NeurIPS 2021
 [[Paper](https://openreview.net/pdf?id=YQeWoRnwTnE)]
 [[Code](https://github.com/dorarad/gansformer)]
+
+**X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers**<br>
+*Jaemin Cho, Jiasen Lu, Dustin Schwenk, Hannaneh Hajishirzi, Aniruddha Kembhavi*<br>
+EMNLP 2020
+[[Paper](https://arxiv.org/abs/2009.11278)] 
+[[Code](https://github.com/allenai/x-lxmert)] 
 
 **One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning**<br>
 *Suzhen Wang, Lincheng Li, Yu Ding, Xin Yu*<br>
