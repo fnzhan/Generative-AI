@@ -44,6 +44,12 @@ This project is associated with our survey paper which comprehensively contextua
 
 ## Transformer-based-Methods
 
+**MaskGIT: Masked Generative Image Transformer**<br>
+*Huiwen Chang, Han Zhang, Lu Jiang, Ce Liu, William T. Freeman*<br>
+arxiv 2022
+[[Paper](https://arxiv.org/abs/2202.04200)] 
+<!-- [[Project](https://wenxin.baidu.com/wenxin/ernie-vilg)] -->
+
 **ERNIE-ViLG: Unified Generative Pre-training for Bidirectional Vision-Language Generation**<br>
 *Han Zhang, Weichong Yin, Yewei Fang, Lanxin Li, Boqiang Duan, Zhihua Wu, Yu Sun, Hao Tian, Hua Wu, Haifeng Wang*<br>
 arxiv 2021
