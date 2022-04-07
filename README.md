@@ -239,6 +239,11 @@ ICCV 2021
 
 ## Diffusion-based-Methods
 
+**[DALL-E 2] Hierarchical Text-Conditional Image Generation with CLIP Latents**<br>
+*Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, Mark Chen*<br>
+[[Paper](https://cdn.openai.com/papers/dall-e-2.pdf)]
+[[Code](https://github.com/lucidrains/DALLE2-pytorch)]
+
 **High-Resolution Image Synthesis with Latent Diffusion Models**<br>
 *Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer*<br>
 arxiv 2021
