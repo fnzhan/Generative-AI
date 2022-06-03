@@ -32,13 +32,10 @@ This project is associated with our survey paper which comprehensively contextua
 - [GAN-based Methods](#GAN-based-Methods)
 - [Other Methods](#Other-Methods)
 
-**Modalities:**
+**Modalities & Datasets:**
 - [Text Encoding](#Text-Encoding)
 - [Audio Encoding](#Audio-Encoding)
-
-
-**Datasets:**
-- TODO
+- [Datasets](#Datasets)
 
 
 
