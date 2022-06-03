@@ -273,8 +273,9 @@ arxiv 2021
 
 **Blended Diffusion for Text-driven Editing of Natural Images**<br>
 *Omri Avrahami, Dani Lischinski, Ohad Fried*<br>
-arxiv 2021
+CVPR 2022
 [[Paper](https://arxiv.org/abs/2111.14818)]
+[[Project](https://omriavrahami.com/blended-diffusion-page/)]
 [[Code](https://github.com/omriav/blended-diffusion)]
 
 
