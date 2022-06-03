@@ -239,6 +239,13 @@ ICCV 2021
 
 ## Diffusion-based-Methods
 
+**Text2Human: Text-Driven Controllable Human Image Generation**<br>
+*Yuming Jiang, Shuai Yang, Haonan Qiu, Wayne Wu, Chen Change Loy, Ziwei Liu*<br>
+SIGGRAPH 2022
+[[Paper](https://arxiv.org/pdf/2205.15996.pdf)]
+[[Project](https://yumingj.github.io/projects/Text2Human.html)]
+[[Code](https://github.com/yumingj/Text2Human)]
+
 **[DALL-E 2] Hierarchical Text-Conditional Image Generation with CLIP Latents**<br>
 *Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, Mark Chen*<br>
 [[Paper](https://cdn.openai.com/papers/dall-e-2.pdf)]
@@ -469,3 +476,11 @@ arxiv 2021
 ICASSP 2022
 [[Paper](https://arxiv.org/abs/2110.11499)]
 [[Code](https://github.com/descriptinc/lyrebird-wav2clip)]
+
+
+
+
+## Datasets
+
+Multimodal CelebA-HQ (https://github.com/IIGROUP/MM-CelebA-HQ-Dataset)
+DeepFashion-MultiModal (https://github.com/yumingj/DeepFashion-MultiModal)
