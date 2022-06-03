@@ -480,4 +480,5 @@ ICASSP 2022
 ## Datasets
 
 Multimodal CelebA-HQ (https://github.com/IIGROUP/MM-CelebA-HQ-Dataset)
+
 DeepFashion-MultiModal (https://github.com/yumingj/DeepFashion-MultiModal)
