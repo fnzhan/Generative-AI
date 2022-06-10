@@ -205,6 +205,8 @@ NIPS 2018
 <br>
 
 
+
+
 ## NeRF-based-Methods
 
 **IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis**<br>
@@ -218,6 +220,13 @@ arxiv 2022
 *Kyungmin Jo, Gyumin Shim, Sanghun Jung, Soyoung Yang, Jaegul Choo*<br>
 arxiv 2021
 [[Paper](https://arxiv.org/abs/2112.03517)]
+
+**Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields**<br>
+*Yuedong Chen, Qianyi Wu, Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai*<br>
+arxiv 2022
+[[Paper](https://arxiv.org/abs/2203.10821)]
+[[Code](https://github.com/donydchen/sem2nerf)]
+[[Project](https://donydchen.github.io/sem2nerf/)]
 
 **Zero-Shot Text-Guided Object Generation with Dream Fields**<br>
 *Ajay Jain, Ben Mildenhall, Jonathan T. Barron, Pieter Abbeel, Ben Poole*<br>
