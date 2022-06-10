@@ -207,6 +207,18 @@ NIPS 2018
 
 ## NeRF-based-Methods
 
+**IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis**<br>
+*Jingxiang Sun, Xuan Wang, Yichun Shi, Lizhen Wang, Jue Wang, Yebin Liu*<br>
+arxiv 2022
+[[Paper](https://arxiv.org/pdf/2205.15517.pdf)]
+[[Code](https://github.com/MrTornado24/IDE-3D)]
+[[Project](https://mrtornado24.github.io/IDE-3D/)]
+
+**CG-NeRF: Conditional Generative Neural Radiance Fields**<br>
+*Kyungmin Jo, Gyumin Shim, Sanghun Jung, Soyoung Yang, Jaegul Choo*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.03517)]
+
 **Zero-Shot Text-Guided Object Generation with Dream Fields**<br>
 *Ajay Jain, Ben Mildenhall, Jonathan T. Barron, Pieter Abbeel, Ben Poole*<br>
 arxiv 2021
