@@ -405,6 +405,13 @@ CVPR 2021
 [[Code](https://github.com/jixinya/EVP/)]
 [[Project](https://jixinya.github.io/projects/evp/)]
 
+**SketchyCOCO: Image Generation from Freehand Scene Sketches**<br>
+*Chengying Gao, Qi Liu, Qi Xu, Limin Wang, Jianzhuang Liu, Changqing Zou*
+CVPR 2020
+[[Paper](https://arxiv.org/pdf/2003.02683.pdf)]
+[[Code](https://github.com/sysu-imsl/SketchyCOCO)]
+[[Project](https://mikexuq.github.io/test_building_pages/index.html)]
+
 **Direct Speech-to-Image Translation [Audio2Image]**<br>
 *Jiguo Li, Xinfeng Zhang, Chuanmin Jia, Jizheng Xu, Li Zhang, Yue Wang, Siwei Ma, Wen Gao*<br>
 JSTSP 2020
