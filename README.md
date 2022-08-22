@@ -406,7 +406,7 @@ CVPR 2021
 [[Project](https://jixinya.github.io/projects/evp/)]
 
 **SketchyCOCO: Image Generation from Freehand Scene Sketches**<br>
-*Chengying Gao, Qi Liu, Qi Xu, Limin Wang, Jianzhuang Liu, Changqing Zou*
+*Chengying Gao, Qi Liu, Qi Xu, Limin Wang, Jianzhuang Liu, Changqing Zou*<br>
 CVPR 2020
 [[Paper](https://arxiv.org/pdf/2003.02683.pdf)]
 [[Code](https://github.com/sysu-imsl/SketchyCOCO)]
