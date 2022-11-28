@@ -25,8 +25,8 @@ This project is associated with our survey paper which comprehensively contextua
 
 **Methods:**
 <!-- ### Methods: -->
-- [Diffusion-based Methods](#Diffusion-based-Methods)
 - [NeRF-based Methods](#NeRF-based-Methods)
+- [Diffusion-based Methods](#Diffusion-based-Methods)
 - [Transformer-based Methods](#Transformer-based-Methods) 
   - [Image Quantizer](#Image-Quantizer)
 - [GAN-based Methods](#GAN-based-Methods)
