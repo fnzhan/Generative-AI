@@ -25,18 +25,142 @@ This project is associated with our survey paper which comprehensively contextua
 
 **Methods:**
 <!-- ### Methods: -->
+- [Diffusion-based Methods](#Diffusion-based-Methods)
+- [NeRF-based Methods](#NeRF-based-Methods)
 - [Transformer-based Methods](#Transformer-based-Methods) 
   - [Image Quantizer](#Image-Quantizer)
-- [NeRF-based Methods](#NeRF-based-Methods)
-- [Diffusion-based Methods](#Diffusion-based-Methods)
-- [GAN-Inversion Methods](#GAN-Inversion-Methods)
 - [GAN-based Methods](#GAN-based-Methods)
+  - [GAN-Inversion](#GAN-Inversion-Methods)
 - [Other Methods](#Other-Methods)
 
 **Modalities & Datasets:**
 - [Text Encoding](#Text-Encoding)
 - [Audio Encoding](#Audio-Encoding)
 - [Datasets](#Datasets)
+
+
+
+
+## NeRF-based-Methods
+
+**Magic3D: High-Resolution Text-to-3D Content Creation**<br>
+*Chen-Hsuan Lin, Jun Gao, Luming Tang, Towaki Takikawa, Xiaohui Zeng, Xun Huang, Karsten Kreis, Sanja Fidler, Ming-Yu Liu, Tsung-Yi Lin*<br>
+arxiv 2022
+[[Paper](https://arxiv.org/abs/2211.10440)]
+[[Project](https://deepimagination.cc/Magic3D/)]
+
+**DreamFusion: Text-to-3D using 2D Diffusion**<br>
+*Ben Poole, Ajay Jain, Jonathan T. Barron, Ben Mildenhall*<br>
+arxiv 2022
+[[Paper](https://arxiv.org/abs/2209.14988)]
+[[Project](https://dreamfusion3d.github.io/)]
+
+**Zero-Shot Text-Guided Object Generation with Dream Fields**<br>
+*Ajay Jain, Ben Mildenhall, Jonathan T. Barron, Pieter Abbeel, Ben Poole*<br>
+CVPR 2022
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jain_Zero-Shot_Text-Guided_Object_Generation_With_Dream_Fields_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/google-research/google-research/tree/master/dreamfields)]
+[[Project](https://ajayj.com/dreamfields)]
+
+**IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis**<br>
+*Jingxiang Sun, Xuan Wang, Yichun Shi, Lizhen Wang, Jue Wang, Yebin Liu*<br>
+arxiv 2022
+[[Paper](https://arxiv.org/pdf/2205.15517.pdf)]
+[[Code](https://github.com/MrTornado24/IDE-3D)]
+[[Project](https://mrtornado24.github.io/IDE-3D/)]
+
+**CG-NeRF: Conditional Generative Neural Radiance Fields**<br>
+*Kyungmin Jo, Gyumin Shim, Sanghun Jung, Soyoung Yang, Jaegul Choo*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.03517)]
+
+**Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields**<br>
+*Yuedong Chen, Qianyi Wu, Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai*<br>
+arxiv 2022
+[[Paper](https://arxiv.org/abs/2203.10821)]
+[[Code](https://github.com/donydchen/sem2nerf)]
+[[Project](https://donydchen.github.io/sem2nerf/)]
+
+**Zero-Shot Text-Guided Object Generation with Dream Fields**<br>
+*Ajay Jain, Ben Mildenhall, Jonathan T. Barron, Pieter Abbeel, Ben Poole*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.01455)]
+[[Project](https://ajayj.com/dreamfields)]
+
+**CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields**<br>
+*Can Wang, Menglei Chai, Mingming He, Dongdong Chen, Jing Liao*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.05139)]
+[[Code](https://github.com/cassiePython/CLIPNeRF)]
+[[Project](https://cassiepython.github.io/clipnerf/)]
+
+
+**AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis**<br>
+*Yudong Guo, Keyu Chen, Sen Liang, Yong-Jin Liu, Hujun Bao, Juyong Zhang*<br>
+ICCV 2021
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.pdf)]
+[[Code](https://github.com/YudongGuo/AD-NeRF)]
+[[Project](https://yudongguo.github.io/ADNeRF/)]
+[[Video](https://www.youtube.com/watch?v=TQO2EBYXLyU)]
+
+
+
+<br>
+
+
+
+
+## Diffusion-based-Methods
+
+**Text2Human: Text-Driven Controllable Human Image Generation**<br>
+*Yuming Jiang, Shuai Yang, Haonan Qiu, Wayne Wu, Chen Change Loy, Ziwei Liu*<br>
+SIGGRAPH 2022
+[[Paper](https://arxiv.org/pdf/2205.15996.pdf)]
+[[Project](https://yumingj.github.io/projects/Text2Human.html)]
+[[Code](https://github.com/yumingj/Text2Human)]
+
+**[DALL-E 2] Hierarchical Text-Conditional Image Generation with CLIP Latents**<br>
+*Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, Mark Chen*<br>
+[[Paper](https://cdn.openai.com/papers/dall-e-2.pdf)]
+[[Code](https://github.com/lucidrains/DALLE2-pytorch)]
+
+**High-Resolution Image Synthesis with Latent Diffusion Models**<br>
+*Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.10752)]
+[[Code](https://github.com/CompVis/latent-diffusion)]
+
+**v objective diffusion**<br>
+*Katherine Crowson*<br>
+[[Code](https://github.com/crowsonkb/v-diffusion-pytorch)]
+
+**GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models**<br>
+*Alex Nichol, Prafulla Dhariwal, Aditya Ramesh, Pranav Shyam, Pamela Mishkin, Bob McGrew, Ilya Sutskever, Mark Chen*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.10741)]
+[[Code](https://github.com/openai/glide-text2im)]
+
+**Vector Quantized Diffusion Model for Text-to-Image Synthesis**<br>
+*Shuyang Gu, Dong Chen, Jianmin Bao, Fang Wen, Bo Zhang, Dongdong Chen, Lu Yuan, Baining Guo*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2111.14822)]
+[[Code](https://github.com/microsoft/VQ-Diffusion)]
+
+**DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation**<br>
+*Gwanghyun Kim, Jong Chul Ye*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2110.02711)]
+
+**Blended Diffusion for Text-driven Editing of Natural Images**<br>
+*Omri Avrahami, Dani Lischinski, Ohad Fried*<br>
+CVPR 2022
+[[Paper](https://arxiv.org/abs/2111.14818)]
+[[Project](https://omriavrahami.com/blended-diffusion-page/)]
+[[Code](https://github.com/omriav/blended-diffusion)]
+
+
+
+<br>
 
 
 
@@ -208,180 +332,8 @@ NIPS 2018
 
 
 
-## NeRF-based-Methods
-
-**Magic3D: High-Resolution Text-to-3D Content Creation**<br>
-*Chen-Hsuan Lin, Jun Gao, Luming Tang, Towaki Takikawa, Xiaohui Zeng, Xun Huang, Karsten Kreis, Sanja Fidler, Ming-Yu Liu, Tsung-Yi Lin*<br>
-arxiv 2022
-[[Paper](https://arxiv.org/abs/2211.10440)]
-[[Project](https://deepimagination.cc/Magic3D/)]
-
-**DreamFusion: Text-to-3D using 2D Diffusion**<br>
-*Ben Poole, Ajay Jain, Jonathan T. Barron, Ben Mildenhall*<br>
-arxiv 2022
-[[Paper](https://arxiv.org/abs/2209.14988)]
-[[Project](https://dreamfusion3d.github.io/)]
-
-**Zero-Shot Text-Guided Object Generation with Dream Fields**<br>
-*Ajay Jain, Ben Mildenhall, Jonathan T. Barron, Pieter Abbeel, Ben Poole*<br>
-CVPR 2022
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jain_Zero-Shot_Text-Guided_Object_Generation_With_Dream_Fields_CVPR_2022_paper.pdf)]
-[[Code](https://github.com/google-research/google-research/tree/master/dreamfields)]
-[[Project](https://ajayj.com/dreamfields)]
-
-**IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis**<br>
-*Jingxiang Sun, Xuan Wang, Yichun Shi, Lizhen Wang, Jue Wang, Yebin Liu*<br>
-arxiv 2022
-[[Paper](https://arxiv.org/pdf/2205.15517.pdf)]
-[[Code](https://github.com/MrTornado24/IDE-3D)]
-[[Project](https://mrtornado24.github.io/IDE-3D/)]
-
-**CG-NeRF: Conditional Generative Neural Radiance Fields**<br>
-*Kyungmin Jo, Gyumin Shim, Sanghun Jung, Soyoung Yang, Jaegul Choo*<br>
-arxiv 2021
-[[Paper](https://arxiv.org/abs/2112.03517)]
-
-**Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields**<br>
-*Yuedong Chen, Qianyi Wu, Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai*<br>
-arxiv 2022
-[[Paper](https://arxiv.org/abs/2203.10821)]
-[[Code](https://github.com/donydchen/sem2nerf)]
-[[Project](https://donydchen.github.io/sem2nerf/)]
-
-**Zero-Shot Text-Guided Object Generation with Dream Fields**<br>
-*Ajay Jain, Ben Mildenhall, Jonathan T. Barron, Pieter Abbeel, Ben Poole*<br>
-arxiv 2021
-[[Paper](https://arxiv.org/abs/2112.01455)]
-[[Project](https://ajayj.com/dreamfields)]
-
-**CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields**<br>
-*Can Wang, Menglei Chai, Mingming He, Dongdong Chen, Jing Liao*<br>
-arxiv 2021
-[[Paper](https://arxiv.org/abs/2112.05139)]
-[[Code](https://github.com/cassiePython/CLIPNeRF)]
-[[Project](https://cassiepython.github.io/clipnerf/)]
 
 
-**AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis**<br>
-*Yudong Guo, Keyu Chen, Sen Liang, Yong-Jin Liu, Hujun Bao, Juyong Zhang*<br>
-ICCV 2021
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.pdf)]
-[[Code](https://github.com/YudongGuo/AD-NeRF)]
-[[Project](https://yudongguo.github.io/ADNeRF/)]
-[[Video](https://www.youtube.com/watch?v=TQO2EBYXLyU)]
-
-
-
-<br>
-
-
-## Diffusion-based-Methods
-
-**Text2Human: Text-Driven Controllable Human Image Generation**<br>
-*Yuming Jiang, Shuai Yang, Haonan Qiu, Wayne Wu, Chen Change Loy, Ziwei Liu*<br>
-SIGGRAPH 2022
-[[Paper](https://arxiv.org/pdf/2205.15996.pdf)]
-[[Project](https://yumingj.github.io/projects/Text2Human.html)]
-[[Code](https://github.com/yumingj/Text2Human)]
-
-**[DALL-E 2] Hierarchical Text-Conditional Image Generation with CLIP Latents**<br>
-*Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, Mark Chen*<br>
-[[Paper](https://cdn.openai.com/papers/dall-e-2.pdf)]
-[[Code](https://github.com/lucidrains/DALLE2-pytorch)]
-
-**High-Resolution Image Synthesis with Latent Diffusion Models**<br>
-*Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer*<br>
-arxiv 2021
-[[Paper](https://arxiv.org/abs/2112.10752)]
-[[Code](https://github.com/CompVis/latent-diffusion)]
-
-**v objective diffusion**<br>
-*Katherine Crowson*<br>
-[[Code](https://github.com/crowsonkb/v-diffusion-pytorch)]
-
-**GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models**<br>
-*Alex Nichol, Prafulla Dhariwal, Aditya Ramesh, Pranav Shyam, Pamela Mishkin, Bob McGrew, Ilya Sutskever, Mark Chen*<br>
-arxiv 2021
-[[Paper](https://arxiv.org/abs/2112.10741)]
-[[Code](https://github.com/openai/glide-text2im)]
-
-**Vector Quantized Diffusion Model for Text-to-Image Synthesis**<br>
-*Shuyang Gu, Dong Chen, Jianmin Bao, Fang Wen, Bo Zhang, Dongdong Chen, Lu Yuan, Baining Guo*<br>
-arxiv 2021
-[[Paper](https://arxiv.org/abs/2111.14822)]
-[[Code](https://github.com/microsoft/VQ-Diffusion)]
-
-**DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation**<br>
-*Gwanghyun Kim, Jong Chul Ye*<br>
-arxiv 2021
-[[Paper](https://arxiv.org/abs/2110.02711)]
-
-**Blended Diffusion for Text-driven Editing of Natural Images**<br>
-*Omri Avrahami, Dani Lischinski, Ohad Fried*<br>
-CVPR 2022
-[[Paper](https://arxiv.org/abs/2111.14818)]
-[[Project](https://omriavrahami.com/blended-diffusion-page/)]
-[[Code](https://github.com/omriav/blended-diffusion)]
-
-
-
-<br>
-
-
-
-## GAN-Inversion-Methods 
-
-**HairCLIP: Design Your Hair by Text and Reference Image**<br>
-*Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Zhentao Tan, Lu Yuan, Weiming Zhang, Nenghai Yu*<br>
-arxiv 2021
-[[Paper](https://arxiv.org/abs/2112.05142)]
-[[Code](https://github.com/wty-ustc/HairCLIP)]
-
-**FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+ GAN Space Optimization**<br>
-*Xingchao Liu, Chengyue Gong, Lemeng Wu, Shujian Zhang, Hao Su, Qiang Liu*<br>
-arxiv 2021
-[[Paper](https://arxiv.org/abs/2112.01573)]
-[[Code](https://github.com/gnobitab/FuseDream)]
-
-**StyleMC: Multi-Channel Based Fast Text-Guided Image Generation and Manipulation**<br>
-*Umut Kocasari, Alara Dirik, Mert Tiftikci, Pinar Yanardag*<br>
-WACV 2022
-[[Paper](https://arxiv.org/abs/2112.08493)]
-[[Code](https://github.com/catlab-team/stylemc)]
-[[Project](https://catlab-team.github.io/stylemc/)]
-
-**Cycle-Consistent Inverse GAN for Text-to-Image Synthesis**<br>
-*Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao*<br>
-ACM MM 2021
-[[Paper](https://dl.acm.org/doi/10.1145/3474085.3475226)]
-
-**StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**<br>
-*Or Patashnik, Zongze Wu, Eli Shechtman, Daniel Cohen-Or, Dani Lischinski*<br>
-ICCV 2021
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.pdf)]
-[[Code](https://github.com/orpatashnik/StyleCLIP)]
-[[Video](https://www.youtube.com/watch?v=PhR1gpXDu0w)]
-
-**Talk-to-Edit: Fine-Grained Facial Editing via Dialog**<br>
-*Yuming Jiang, Ziqi Huang, Xingang Pan, Chen Change Loy, Ziwei Liu*<br>
-ICCV 2021
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Talk-To-Edit_Fine-Grained_Facial_Editing_via_Dialog_ICCV_2021_paper.pdf)]
-[[Code](https://github.com/yumingj/Talk-to-Edit)]
-[[Project](https://www.mmlab-ntu.com/project/talkedit/)]
-
-**TediGAN: Text-Guided Diverse Face Image Generation and Manipulation**<br>
-*Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu*<br>
-CVPR 2021
-[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xia_TediGAN_Text-Guided_Diverse_Face_Image_Generation_and_Manipulation_CVPR_2021_paper.pdf)]
-[[Code](https://github.com/IIGROUP/TediGAN)]
-[[Video](https://www.youtube.com/watch?v=L8Na2f5viAM)]
-
-**Paint by Word**<br>
-*David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba*<br>
-arxiv 2021
-[[Paper](https://arxiv.org/abs/2112.01573)]
-
-<br>
 
 
 ## GAN-based-Methods
@@ -467,6 +419,62 @@ TPAMI 2018
 ICCV 2017
 [[Paper](https://arxiv.org/abs/1612.03242)]
 [[Code](https://github.com/hanzhanggit/StackGAN)]
+
+<br>
+
+### GAN-Inversion-Methods 
+
+**HairCLIP: Design Your Hair by Text and Reference Image**<br>
+*Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Zhentao Tan, Lu Yuan, Weiming Zhang, Nenghai Yu*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.05142)]
+[[Code](https://github.com/wty-ustc/HairCLIP)]
+
+**FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+ GAN Space Optimization**<br>
+*Xingchao Liu, Chengyue Gong, Lemeng Wu, Shujian Zhang, Hao Su, Qiang Liu*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.01573)]
+[[Code](https://github.com/gnobitab/FuseDream)]
+
+**StyleMC: Multi-Channel Based Fast Text-Guided Image Generation and Manipulation**<br>
+*Umut Kocasari, Alara Dirik, Mert Tiftikci, Pinar Yanardag*<br>
+WACV 2022
+[[Paper](https://arxiv.org/abs/2112.08493)]
+[[Code](https://github.com/catlab-team/stylemc)]
+[[Project](https://catlab-team.github.io/stylemc/)]
+
+**Cycle-Consistent Inverse GAN for Text-to-Image Synthesis**<br>
+*Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao*<br>
+ACM MM 2021
+[[Paper](https://dl.acm.org/doi/10.1145/3474085.3475226)]
+
+**StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**<br>
+*Or Patashnik, Zongze Wu, Eli Shechtman, Daniel Cohen-Or, Dani Lischinski*<br>
+ICCV 2021
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.pdf)]
+[[Code](https://github.com/orpatashnik/StyleCLIP)]
+[[Video](https://www.youtube.com/watch?v=PhR1gpXDu0w)]
+
+**Talk-to-Edit: Fine-Grained Facial Editing via Dialog**<br>
+*Yuming Jiang, Ziqi Huang, Xingang Pan, Chen Change Loy, Ziwei Liu*<br>
+ICCV 2021
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Talk-To-Edit_Fine-Grained_Facial_Editing_via_Dialog_ICCV_2021_paper.pdf)]
+[[Code](https://github.com/yumingj/Talk-to-Edit)]
+[[Project](https://www.mmlab-ntu.com/project/talkedit/)]
+
+**TediGAN: Text-Guided Diverse Face Image Generation and Manipulation**<br>
+*Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu*<br>
+CVPR 2021
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xia_TediGAN_Text-Guided_Diverse_Face_Image_Generation_and_Manipulation_CVPR_2021_paper.pdf)]
+[[Code](https://github.com/IIGROUP/TediGAN)]
+[[Video](https://www.youtube.com/watch?v=L8Na2f5viAM)]
+
+**Paint by Word**<br>
+*David Bau, Alex Andonian, Audrey Cui, YeonHwan Park, Ali Jahanian, Aude Oliva, Antonio Torralba*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.01573)]
+
+
 
 
 
