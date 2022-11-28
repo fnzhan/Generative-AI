@@ -210,6 +210,25 @@ NIPS 2018
 
 ## NeRF-based-Methods
 
+**Magic3D: High-Resolution Text-to-3D Content Creation**<br>
+*Chen-Hsuan Lin, Jun Gao, Luming Tang, Towaki Takikawa, Xiaohui Zeng, Xun Huang, Karsten Kreis, Sanja Fidler, Ming-Yu Liu, Tsung-Yi Lin*<br>
+arxiv 2022
+[[Paper](https://arxiv.org/abs/2211.10440)]
+[[Project](https://deepimagination.cc/Magic3D/)]
+
+**DreamFusion: Text-to-3D using 2D Diffusion**<br>
+*Ben Poole, Ajay Jain, Jonathan T. Barron, Ben Mildenhall*<br>
+arxiv 2022
+[[Paper](https://arxiv.org/abs/2209.14988)]
+[[Project](https://dreamfusion3d.github.io/)]
+
+**Zero-Shot Text-Guided Object Generation with Dream Fields**<br>
+*Ajay Jain, Ben Mildenhall, Jonathan T. Barron, Pieter Abbeel, Ben Poole*<br>
+CVPR 2022
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jain_Zero-Shot_Text-Guided_Object_Generation_With_Dream_Fields_CVPR_2022_paper.pdf)]
+[[Code](https://github.com/google-research/google-research/tree/master/dreamfields)]
+[[Project](https://ajayj.com/dreamfields)]
+
 **IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis**<br>
 *Jingxiang Sun, Xuan Wang, Yichun Shi, Lizhen Wang, Jue Wang, Yebin Liu*<br>
 arxiv 2022
