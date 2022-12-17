@@ -63,6 +63,20 @@ Computational Visual Media 2022
 
 ## NeRF-based-Methods
 
+**DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**<br>
+*Gwanghyun Kim, Se Young Chun*<br>
+arxiv 2022
+[[Paper](https://arxiv.org/abs/2211.16374)]
+[[Code](https://github.com/gwang-kim/DATID-3D)]
+[[Project](https://datid-3d.github.io/)]
+
+**Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models**<br>
+*Gang Li, Heliang Zheng, Chaoyue Wang, Chang Li, Changwen Zheng, Dacheng Tao*<br>
+arxiv 2022
+[[Paper](https://arxiv.org/abs/2211.14108)]
+[[Project](https://3ddesigner-diffusion.github.io/)]
+
+
 **Magic3D: High-Resolution Text-to-3D Content Creation**<br>
 *Chen-Hsuan Lin, Jun Gao, Luming Tang, Towaki Takikawa, Xiaohui Zeng, Xun Huang, Karsten Kreis, Sanja Fidler, Ming-Yu Liu, Tsung-Yi Lin*<br>
 arxiv 2022
