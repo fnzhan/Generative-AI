@@ -21,6 +21,26 @@ This project is associated with our survey paper which comprehensively contextua
 
 <!-- **The survey is trending and featured on [DeepAI](https://deepai.org/publication/multimodal-image-synthesis-and-editing-a-survey) and [机器之心](https://mp.weixin.qq.com/s/Tp73TvYtj-O05AT421jZjw).** -->
 
+
+## Related Surveys
+
+**Adversarial Text-to-Image Synthesis: A Review**<br>
+*Stanislav Frolov, Tobias Hinz, Federico Raue, Jörn Hees, Andreas Dengel*<br>
+Neural Networks 2021
+[[Paper](https://arxiv.org/abs/2101.09983)]
+
+**GAN Inversion: A Survey**<br>
+*Weihao Xia, Yulun Zhang, Yujiu Yang, Jing-Hao Xue, Bolei Zhou, Ming-Hsuan Yang*
+TPAMI 2022 
+[[Paper](https://arxiv.org/abs/2101.05278)]
+[[Project](https://github.com/weihaox/awesome-gan-inversion)]
+
+**Deep Image Synthesis from Intuitive User Input: A Review and Perspectives**<br>
+*Yuan Xue, Yuan-Chen Guo, Han Zhang, Tao Xu, Song-Hai Zhang, Xiaolei Huang*
+Computational Visual Media 2022
+[[Paper](https://arxiv.org/abs/2107.04240)]
+
+
 ## Table of Contents (Work in Progress)
 
 **Methods:**
