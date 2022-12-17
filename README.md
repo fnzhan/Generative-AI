@@ -30,13 +30,13 @@ Neural Networks 2021
 [[Paper](https://arxiv.org/abs/2101.09983)]
 
 **GAN Inversion: A Survey**<br>
-*Weihao Xia, Yulun Zhang, Yujiu Yang, Jing-Hao Xue, Bolei Zhou, Ming-Hsuan Yang*
+*Weihao Xia, Yulun Zhang, Yujiu Yang, Jing-Hao Xue, Bolei Zhou, Ming-Hsuan Yang*<br>
 TPAMI 2022 
 [[Paper](https://arxiv.org/abs/2101.05278)]
 [[Project](https://github.com/weihaox/awesome-gan-inversion)]
 
 **Deep Image Synthesis from Intuitive User Input: A Review and Perspectives**<br>
-*Yuan Xue, Yuan-Chen Guo, Han Zhang, Tao Xu, Song-Hai Zhang, Xiaolei Huang*
+*Yuan Xue, Yuan-Chen Guo, Han Zhang, Tao Xu, Song-Hai Zhang, Xiaolei Huang*<br>
 Computational Visual Media 2022
 [[Paper](https://arxiv.org/abs/2107.04240)]
 
