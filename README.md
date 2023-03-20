@@ -22,7 +22,7 @@ This project is associated with our survey paper which comprehensively contextua
 <!-- **The survey is trending and featured on [DeepAI](https://deepai.org/publication/multimodal-image-synthesis-and-editing-a-survey) and [机器之心](https://mp.weixin.qq.com/s/Tp73TvYtj-O05AT421jZjw).** -->
 
 
-## Related Surveys
+## Related Surveys & Projects
 
 **Adversarial Text-to-Image Synthesis: A Review**<br>
 *Stanislav Frolov, Tobias Hinz, Federico Raue, Jörn Hees, Andreas Dengel*<br>
@@ -39,6 +39,8 @@ TPAMI 2022
 *Yuan Xue, Yuan-Chen Guo, Han Zhang, Tao Xu, Song-Hai Zhang, Xiaolei Huang*<br>
 Computational Visual Media 2022
 [[Paper](https://arxiv.org/abs/2107.04240)]
+
+[Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)
 
 
 ## Table of Contents (Work in Progress)
