@@ -148,6 +148,13 @@ ICCV 2021
 
 ## Diffusion-based-Methods
 
+**Unite and Conquer: Plug & Play Multi-Modal Synthesis using Diffusion Models**<br>
+*Nithin Gopalakrishnan Nair, Chaminda Bandara, Vishal M Patel*<br>
+CVPR 2023
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Nair_Unite_and_Conquer_Plug__Play_Multi-Modal_Synthesis_Using_Diffusion_CVPR_2023_paper.pdf)]
+[[Project](https://nithin-gk.github.io/projectpages/Multidiff/index.html)]
+[[Code](https://github.com/Nithin-GK/UniteandConquer)]
+
 **Text2Human: Text-Driven Controllable Human Image Generation**<br>
 *Yuming Jiang, Shuai Yang, Haonan Qiu, Wayne Wu, Chen Change Loy, Ziwei Liu*<br>
 SIGGRAPH 2022
@@ -194,19 +201,8 @@ CVPR 2022
 [[Project](https://omriavrahami.com/blended-diffusion-page/)]
 [[Code](https://github.com/omriav/blended-diffusion)]
 
-**Unite and Conquer: Plug & Play Multi-Modal Synthesis using Diffusion Models**<br>
-*Nithin Gopalakrishnan Nair, Chaminda Bandara, Vishal M Patel*<br>
-CVPR 2023
-[[Paper]((https://openaccess.thecvf.com/content/CVPR2023/papers/Nair_Unite_and_Conquer_Plug__Play_Multi-Modal_Synthesis_Using_Diffusion_CVPR_2023_paper.pdf))]
-[[Project](https://nithin-gk.github.io/projectpages/Multidiff/index.html)]
-[[Code]([https://github.com/omriav/blended-diffusion](https://github.com/Nithin-GK/UniteandConquer))]
 
-**Unite and Conquer: Plug & Play Multi-Modal Synthesis using Diffusion Models**<br>
-*Nithin Gopalakrishnan Nair, Chaminda Bandara, Vishal M Patel*<br>
-CVPR 2023
-[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Nair_Unite_and_Conquer_Plug__Play_Multi-Modal_Synthesis_Using_Diffusion_CVPR_2023_paper.pdf)]
-[[Project](https://nithin-gk.github.io/projectpages/Multidiff/index.html)]
-[[Code](https://github.com/Nithin-GK/UniteandConquer)]
+
 
 <br>
 
