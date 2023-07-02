@@ -468,6 +468,12 @@ ICCV 2017
 
 ### GAN-Inversion-Methods 
 
+**Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold**<br>
+*Xingang Pan, Ayush Tewari, Thomas Leimkühler, Lingjie Liu, Abhimitra Meka, Christian Theobalt*<br>
+SIGGRAPH 2023
+[[Paper](https://arxiv.org/abs/2305.10973)]
+[[Code](https://github.com/XingangPan/DragGAN)]
+
 **HairCLIP: Design Your Hair by Text and Reference Image**<br>
 *Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Zhentao Tan, Lu Yuan, Weiming Zhang, Nenghai Yu*<br>
 arxiv 2021
