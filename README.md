@@ -23,7 +23,7 @@ This project is associated with our survey paper which comprehensively contextua
 
 ### You are suggested to promote papers via pull request. The process to submit a pull request:
 - Fork the project into your own repository.
-- Modify the `README.md` and follow the format
+- Modify the `README.md` and follow the format:
 ```
 **Title**<br>
 *Author*<br>
