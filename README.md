@@ -23,11 +23,11 @@ This project is associated with our survey paper which comprehensively contextua
 
 ### You are suggested to promote papers via pull request. The process to submit a pull request:
 - Fork the project into your own repository.
-- Add the Title, Author, Conference/Journal/Arxiv, Paper Link, Project Link, and Code Link in `README.md` following below format:
+- Add the Title, Author, Conference, Paper Link, Project Link, and Code Link in `README.md` with below format:
 ```
 **Title**<br>
 *Author*<br>
-Conference/Journal/Arxiv
+Conference
 [[Paper](Paper Link)]
 [[Code](Project Link)]
 [[Project](Code Link)]
