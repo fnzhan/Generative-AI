@@ -23,17 +23,17 @@ This project is associated with our survey paper which comprehensively contextua
 
 **You are suggested to promote papers via pull request** [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com). <br>
 **The process to submit a pull request:**
-- 1. Fork the project into your own repository.
-- 2. Add the Title, Author, Conference, Paper Link, Project Link, and Code Link in `README.md` with below format:
+- a. Fork the project into your own repository.
+- b. Add the Title, Author, Conference, Paper link, Project link, and Code link in `README.md` with below format:
 ```
 **Title**<br>
 *Author*<br>
 Conference
-[[Paper](Paper Link)]
-[[Code](Project Link)]
-[[Project](Code Link)]
+[[Paper](Paper link)]
+[[Code](Project link)]
+[[Project](Code link)]
 ```
-- 3. Submit the pull request to this branch.
+- c. Submit the pull request to this branch.
 
 ## Related Surveys & Projects
 
