@@ -21,10 +21,12 @@ This project is associated with our survey paper which comprehensively contextua
 
 <!-- **The survey is trending and featured on [DeepAI](https://deepai.org/publication/multimodal-image-synthesis-and-editing-a-survey) and [机器之心](https://mp.weixin.qq.com/s/Tp73TvYtj-O05AT421jZjw).** -->
 
-### [How to submit a pull request?](https://github.com/yenchenlin/awesome-NeRF/blob/main/how-to-PR.md)
-Put the bibtex in awesome-NeRF/citations/<YOUR-PROJECT>.txt.
-Modify the README.md and follow the format TITLE, AUTHOR, CONFERENCE YEAR | OPTIONAL LINK | BIBTEX. For example:
-NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis, Mildenhall et al., ECCV 2020 | github | bibtex
+### You are suggested to promote papers via pull request.
+### How to submit a pull request?
+- Modify the README.md and follow the format
+  Title
+  Author
+  Conference / Journal [Paper Link] [Project Link] [Code Link].
 
 
 ## Related Surveys & Projects
