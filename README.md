@@ -19,7 +19,8 @@ This project is associated with our survey paper which comprehensively contextua
 **Multimodal Image Synthesis and Editing: A Survey** » [[Paper](https://arxiv.org/abs/2112.13592)] <br>
 [Fangneng Zhan](https://fnzhan.com/), [Yingchen Yu](https://yingchen001.github.io/), [Rongliang Wu](https://scholar.google.com.sg/citations?user=SZkh3iAAAAAJ&hl=en), [Jiahui Zhang](https://scholar.google.com/citations?user=DXpYbWkAAAAJ&hl=zh-CN), [Shijian Lu](https://scholar.google.com.sg/citations?user=uYmK-A0AAAAJ&hl=en), [Lingjie Liu](https://lingjie0206.github.io/), [Adam Kortylewsk](https://generativevision.mpi-inf.mpg.de/), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/), [Eric Xing](http://www.cs.cmu.edu/~epxing/)
 
-**The survey is trending and featured on [DeepAI](https://deepai.org/publication/multimodal-image-synthesis-and-editing-a-survey) and [机器之心](https://mp.weixin.qq.com/s/Tp73TvYtj-O05AT421jZjw).**
+**The survey is featured on [机器之心](https://mp.weixin.qq.com/s/DJXiydi6wHwk7s5Ad2ulaQ).**
+<!---[DeepAI](https://deepai.org/publication/multimodal-image-synthesis-and-editing-a-survey).**-->
 
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) <br>
 You are welcome to promote papers via pull request. <br>
