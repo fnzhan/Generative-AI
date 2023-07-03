@@ -148,12 +148,124 @@ ICCV 2021
 
 ## Diffusion-based-Methods
 
+
+**BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing**<br>
+*Dongxu Li, Junnan Li, Steven C.H. Hoi*<br>
+Arxiv 2023
+[[Paper](https://arxiv.org/pdf/2305.14720.pdf)]
+[[Project](https://dxli94.github.io/BLIP-Diffusion-website/)]
+[[Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)]
+
+**InstructEdit: Improving Automatic Masks for Diffusion-based Image Editing With User Instructions**<br>
+*Qian Wang, Biao Zhang, Michael Birsak, Peter Wonka*<br>
+Arxiv 2023
+[[Paper](https://arxiv.org/pdf/2305.18047.pdf)]
+[[Project](https://qianwangx.github.io/InstructEdit/)]
+[[Code](https://github.com/qianwangx/instructedit)]
+
+**DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation**<br>
+*Nataniel Ruiz, Yuanzhen Li, Varun Jampani Yael, Pritch Michael, Rubinstein Kfir Aberman*<br>
+CVPR 2023
+[[Paper](https://arxiv.org/pdf/2208.12242.pdf)]
+[[Project](https://dreambooth.github.io/)]
+[[Code](https://github.com/google/dreambooth)]
+
+**Multi-Concept Customization of Text-to-Image Diffusion**<br>
+*Nupur Kumari, Bingliang Zhang, Richard Zhang, Eli Shechtman, Jun-Yan Zhu*<br>
+CVPR 2023
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kumari_Multi-Concept_Customization_of_Text-to-Image_Diffusion_CVPR_2023_paper.pdf)]
+[[Project](https://www.cs.cmu.edu/~custom-diffusion/)]
+[[Code](https://github.com/adobe-research/custom-diffusion)]
+
+**Collaborative Diffusion for Multi-Modal Face Generation and Editing**<br>
+*Ziqi Huang, Kelvin C.K. Chan, Yuming Jiang, Ziwei Liu*<br>
+CVPR 2023
+[[Paper](https://arxiv.org/pdf/2304.10530v1.pdf)]
+[[Project](https://ziqihuangg.github.io/projects/collaborative-diffusion.html)]
+[[Code](https://github.com/ziqihuangg/Collaborative-Diffusion)]
+
+**Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation**<br>
+*Narek Tumanyan, Michal Geyer, Shai Bagon, Tali Dekel*<br>
+CVPR 2023
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tumanyan_Plug-and-Play_Diffusion_Features_for_Text-Driven_Image-to-Image_Translation_CVPR_2023_paper.pdf)]
+[[Project](https://pnp-diffusion.github.io/)]
+[[Code](https://github.com/MichalGeyer/plug-and-play)]
+
+**SINE: SINgle Image Editing with Text-to-Image Diffusion Models**<br>
+*Zhixing Zhang, Ligong Han, Arnab Ghosh, Dimitris Metaxas, Jian Ren*<br>
+CVPR 2023
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SINE_SINgle_Image_Editing_With_Text-to-Image_Diffusion_Models_CVPR_2023_paper.pdf)]
+[[Project](https://zhang-zx.github.io/SINE/)]
+[[Code](https://github.com/zhang-zx/SINE)]
+
+**NULL-Text Inversion for Editing Real Images Using Guided Diffusion Models**<br>
+*Ron Mokady, Amir Hertz, Kfir Aberman, Yael Pritch, Daniel Cohen-Or*<br>
+CVPR 2023
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Mokady_NULL-Text_Inversion_for_Editing_Real_Images_Using_Guided_Diffusion_Models_CVPR_2023_paper.pdf)]
+[[Project](https://null-text-inversion.github.io/)]
+[[Code](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images)]
+
+**Paint by Example: Exemplar-Based Image Editing With Diffusion Models**<br>
+*Binxin Yang, Shuyang Gu, Bo Zhang, Ting Zhang, Xuejin Chen, Xiaoyan Sun, Dong Chen, Fang Wen*<br>
+CVPR 2023
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Paint_by_Example_Exemplar-Based_Image_Editing_With_Diffusion_Models_CVPR_2023_paper.pdf)]
+[[Demo](https://huggingface.co/spaces/Fantasy-Studio/Paint-by-Example)]
+[[Code](https://github.com/Fantasy-Studio/Paint-by-Example)]
+
+**SpaText: Spatio-Textual Representation for Controllable Image Generation**<br>
+*Omri Avrahami, Thomas Hayes, Oran Gafni, Sonal Gupta, Yaniv Taigman, Devi Parikh, Dani Lischinski, Ohad Fried, Xi Yin*<br>
+CVPR 2023
+[[Paper](https://arxiv.org/pdf/2211.14305.pdf)]
+[[Project](https://omriavrahami.com/spatext/)]
+
+**Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models**<br>
+*Andreas Blattmann, Robin Rombach, Huan Ling, Tim Dockhorn, Seung Wook Kim, Sanja Fidler, Karsten Kreis*<br>
+CVPR 2023
+[[Paper](https://arxiv.org/pdf/2304.08818.pdf)]
+[[Project](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)]
+
+
+**InstructPix2Pix Learning to Follow Image Editing Instructions**<br>
+*Tim Brooks, Aleksander Holynski, Alexei A. Efros*<br>
+CVPR 2023
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.pdf)]
+[[Project](https://www.timothybrooks.com/instruct-pix2pix/)]
+[[Code]https://github.com/timothybrooks/instruct-pix2pix)]
+
 **Unite and Conquer: Plug & Play Multi-Modal Synthesis using Diffusion Models**<br>
 *Nithin Gopalakrishnan Nair, Chaminda Bandara, Vishal M Patel*<br>
 CVPR 2023
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Nair_Unite_and_Conquer_Plug__Play_Multi-Modal_Synthesis_Using_Diffusion_CVPR_2023_paper.pdf)]
 [[Project](https://nithin-gk.github.io/projectpages/Multidiff/index.html)]
 [[Code](https://github.com/Nithin-GK/UniteandConquer)]
+
+**DiffEdit: Diffusion-based semantic image editing with mask guidance**<br>
+*Guillaume Couairon, Jakob Verbeek, Holger Schwenk, Matthieu Cord*<br>
+CVPR 2023
+[[Paper](https://arxiv.org/pdf/2210.11427.pdf)]
+
+
+**eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers**<br>
+*Yogesh Balaji, Seungjun Nah, Xun Huang, Arash Vahdat, Jiaming Song, Qinsheng Zhang, Karsten Kreis, Miika Aittala, Timo Aila, Samuli Laine, Bryan Catanzaro, Tero Karras, Ming-Yu Liu*<br>
+Arxiv 2022
+[[Paper](https://arxiv.org/pdf/2211.01324.pdf)]
+[[Project](https://research.nvidia.com/labs/dir/eDiff-I/)]
+
+
+**Prompt-to-Prompt Image Editing with Cross-Attention Control**<br>
+*Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman1 Yael Pritch, Daniel Cohen-Or*<br>
+Arxiv 2022
+[[Paper](https://prompt-to-prompt.github.io/ptp_files/Prompt-to-Prompt_preprint.pdf)]
+[[Project](https://prompt-to-prompt.github.io/)]
+[[Code](https://github.com/google/prompt-to-prompt)]
+
+**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion**<br>
+*Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or*<br>
+Arxiv 2022
+[[Paper](https://arxiv.org/pdf/2208.01618.pdf)]
+[[Project](https://textual-inversion.github.io/)]
+[[Code](https://github.com/rinongal/textual_inversion)]
+
 
 **Text2Human: Text-Driven Controllable Human Image Generation**<br>
 *Yuming Jiang, Shuai Yang, Haonan Qiu, Wayne Wu, Chen Change Loy, Ziwei Liu*<br>
@@ -162,6 +274,7 @@ SIGGRAPH 2022
 [[Project](https://yumingj.github.io/projects/Text2Human.html)]
 [[Code](https://github.com/yumingj/Text2Human)]
 
+
 **[DALL-E 2] Hierarchical Text-Conditional Image Generation with CLIP Latents**<br>
 *Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, Mark Chen*<br>
 [[Paper](https://cdn.openai.com/papers/dall-e-2.pdf)]
@@ -169,7 +282,7 @@ SIGGRAPH 2022
 
 **High-Resolution Image Synthesis with Latent Diffusion Models**<br>
 *Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer*<br>
-arxiv 2021
+CVPR 2022
 [[Paper](https://arxiv.org/abs/2112.10752)]
 [[Code](https://github.com/CompVis/latent-diffusion)]
 
