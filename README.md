@@ -21,7 +21,7 @@ This project is associated with our survey paper which comprehensively contextua
 
 <!-- **The survey is trending and featured on [DeepAI](https://deepai.org/publication/multimodal-image-synthesis-and-editing-a-survey) and [机器之心](https://mp.weixin.qq.com/s/Tp73TvYtj-O05AT421jZjw).** -->
 
-**You are suggested to promote papers via pull request** [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com). <br>
+** [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) You are suggested to promote papers via pull request**. <br>
 **The process to submit a pull request:**
 - a. Fork the project into your own repository.
 - b. Add the Title, Author, Conference, Paper link, Project link, and Code link in `README.md` with below format:
