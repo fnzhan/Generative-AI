@@ -64,7 +64,7 @@ Computational Visual Media 2022
 <!-- ### Methods: -->
 - [NeRF-based Methods](#NeRF-based-Methods)
 - [Diffusion-based Methods](#Diffusion-based-Methods)
-- [Transformer-based Methods](#Transformer-based-Methods) 
+- [Autoregressive Methods](#Autoregressive-Methods) 
   - [Image Quantizer](#Image-Quantizer)
 - [GAN-based Methods](#GAN-based-Methods)
   - [GAN-Inversion](#GAN-Inversion-Methods)
@@ -434,7 +434,7 @@ CVPR 2022
 
 
 
-## Transformer-based-Methods
+## Autoregressive-Methods
 
 **MaskGIT: Masked Generative Image Transformer**<br>
 *Huiwen Chang, Han Zhang, Lu Jiang, Ce Liu, William T. Freeman*<br>
