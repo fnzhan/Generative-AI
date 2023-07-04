@@ -80,9 +80,113 @@ Computational Visual Media 2022
 
 ## NeRF-based-Methods
 
+**Local 3D Editing via 3D Distillation of CLIP Knowledge**<br>
+*Junha Hyung, Sungwon Hwang, Daejin Kim, Hyunji Lee, Jaegul Choo*<br>
+CVPR 2023
+[[Paper](https://arxiv.org/abs/2306.12570)]
+
+**RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models**<br>
+*Xingchen Zhou, Ying He, F. Richard Yu, Jianqiang Li, You Li*<br>
+IJCAI 2023
+[[Paper](https://arxiv.org/abs/2306.05668)]
+
+
+**DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation**<br>
+*Yukun Huang, Jianan Wang, Yukai Shi, Xianbiao Qi, Zheng-Jun Zha, Lei Zhang*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2306.12422)]
+[[Project](https://itsallagi.com/dreamtime-a-new-way-to-create-3d-content-from-text/)]
+
+**AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars**<br>
+*Mohit Mendiratta, Xingang Pan, Mohamed Elgharib, Kartik Teotia, Mallikarjun B R, Ayush Tewari, Vladislav Golyanik, Adam Kortylewski, Christian Theobalt*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2306.00547)]
+[[Project](https://vcai.mpi-inf.mpg.de/projects/AvatarStudio/)]
+
+
+**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**<br>
+*Ori Gordon, Omri Avrahami, Dani Lischinski*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2306.12760)]
+[[Project](https://www.vision.huji.ac.il/blended-nerf/)]
+
+
+**OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields**<br>
+*Youtan Yin, Zhoujie Fu, Fan Yang, Guosheng Lin*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2305.10503)]
+[[Project](https://ornerf.github.io/)]
+[[Code](https://github.com/cuteyyt/or-nerf)]
+
+
+**HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance**<br>
+*Junzhe Zhu, Peiye Zhuang*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2305.18766)]
+[[Project](https://hifa-team.github.io/HiFA-site/)]
+
+**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**<br>
+*Zhengyi Wang, Cheng Lu, Yikai Wang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2305.16213)]
+[[Project](https://ml.cs.tsinghua.edu.cn/prolificdreamer/)]
+
+**Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields**<br>
+*Jingbo Zhang, Xiaoyu Li, Ziyu Wan, Can Wang, Jing Liao*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2305.11588)]
+[[Project](https://eckertzhang.github.io/Text2NeRF.github.io/)]
+
+**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**<br>
+*Yukang Cao, Yan-Pei Cao, Kai Han, Ying Shan, Kwan-Yee K. Wong*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2304.00916)]
+[[Project](https://yukangcao.github.io/DreamAvatar/)]
+
+**DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model**<br>
+*Hoigi Seo, Hayeon Kim, Gwanghyun Kim, Se Young Chun*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2304.02827)]
+[[Project](https://janeyeon.github.io/ditto-nerf/)]
+[[Code](https://github.com/janeyeon/ditto-nerf-code)]
+
+
+**Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes**<br>
+*Dana Cohen-Bar, Elad Richardson, Gal Metzer, Raja Giryes, Daniel Cohen-Or*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2303.13450)]
+[[Project](https://danacohen95.github.io/Set-the-Scene/)]
+[[Code](https://github.com/DanaCohen95/Set-the-Scene)]
+
+**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**<br>
+*Ayaan Haque, Matthew Tancik, Alexei A. Efros, Aleksander Holynski, Angjoo Kanazawa*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2303.12789)]
+[[Project](https://instruct-nerf2nerf.github.io)]
+[[Code](https://github.com/ayaanzhaque/instruct-nerf2nerf)]
+
+**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**<br>
+*Junyoung Seo, Wooseok Jang, Min-Seop Kwak, Jaehoon Ko, Hyeonsu Kim, Junho Kim, Jin-Hwa Kim, Jiyoung Lee, Seungryong Kim*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2303.07937)]
+[[Project](https://ku-cvlab.github.io/3DFuse/)]
+[[Code](https://github.com/KU-CVLAB/3DFuse)]
+
+**Text-To-4D Dynamic Scene Generation**<br>
+*Uriel Singer, Shelly Sheynin, Adam Polyak, Oron Ashual, Iurii Makarov, Filippos Kokkinos, Naman Goyal, Andrea Vedaldi, Devi Parikh, Justin Johnson, Yaniv Taigman*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2301.11280)]
+[[Project](https://make-a-video3d.github.io/)]
+
+**Magic3D: High-Resolution Text-to-3D Content Creation**<br>
+*Chen-Hsuan Lin, Jun Gao, Luming Tang, Towaki Takikawa, Xiaohui Zeng, Xun Huang, Karsten Kreis, Sanja Fidler, Ming-Yu Liu, Tsung-Yi Lin*<br>
+CVPR 2023
+[[Paper](https://arxiv.org/abs/2211.10440)]
+[[Project](https://deepimagination.cc/Magic3D/)]
+
 **DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**<br>
 *Gwanghyun Kim, Se Young Chun*<br>
-arxiv 2022
+CVPR 2023
 [[Paper](https://arxiv.org/abs/2211.16374)]
 [[Code](https://github.com/gwang-kim/DATID-3D)]
 [[Project](https://datid-3d.github.io/)]
@@ -93,12 +197,6 @@ arxiv 2022
 [[Paper](https://arxiv.org/abs/2211.14108)]
 [[Project](https://3ddesigner-diffusion.github.io/)]
 
-
-**Magic3D: High-Resolution Text-to-3D Content Creation**<br>
-*Chen-Hsuan Lin, Jun Gao, Luming Tang, Towaki Takikawa, Xiaohui Zeng, Xun Huang, Karsten Kreis, Sanja Fidler, Ming-Yu Liu, Tsung-Yi Lin*<br>
-arxiv 2022
-[[Paper](https://arxiv.org/abs/2211.10440)]
-[[Project](https://deepimagination.cc/Magic3D/)]
 
 **DreamFusion: Text-to-3D using 2D Diffusion**<br>
 *Ben Poole, Ajay Jain, Jonathan T. Barron, Ben Mildenhall*<br>
@@ -115,15 +213,10 @@ CVPR 2022
 
 **IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis**<br>
 *Jingxiang Sun, Xuan Wang, Yichun Shi, Lizhen Wang, Jue Wang, Yebin Liu*<br>
-arxiv 2022
+SIGGRAPH Asia 2022
 [[Paper](https://arxiv.org/pdf/2205.15517.pdf)]
 [[Code](https://github.com/MrTornado24/IDE-3D)]
 [[Project](https://mrtornado24.github.io/IDE-3D/)]
-
-**CG-NeRF: Conditional Generative Neural Radiance Fields**<br>
-*Kyungmin Jo, Gyumin Shim, Sanghun Jung, Soyoung Yang, Jaegul Choo*<br>
-arxiv 2021
-[[Paper](https://arxiv.org/abs/2112.03517)]
 
 **Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields**<br>
 *Yuedong Chen, Qianyi Wu, Chuanxia Zheng, Tat-Jen Cham, Jianfei Cai*<br>
@@ -132,18 +225,23 @@ arxiv 2022
 [[Code](https://github.com/donydchen/sem2nerf)]
 [[Project](https://donydchen.github.io/sem2nerf/)]
 
+**CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields**<br>
+*Can Wang, Menglei Chai, Mingming He, Dongdong Chen, Jing Liao*<br>
+CVPR 2022
+[[Paper](https://arxiv.org/abs/2112.05139)]
+[[Code](https://github.com/cassiePython/CLIPNeRF)]
+[[Project](https://cassiepython.github.io/clipnerf/)]
+
+**CG-NeRF: Conditional Generative Neural Radiance Fields**<br>
+*Kyungmin Jo, Gyumin Shim, Sanghun Jung, Soyoung Yang, Jaegul Choo*<br>
+arxiv 2021
+[[Paper](https://arxiv.org/abs/2112.03517)]
+
 **Zero-Shot Text-Guided Object Generation with Dream Fields**<br>
 *Ajay Jain, Ben Mildenhall, Jonathan T. Barron, Pieter Abbeel, Ben Poole*<br>
 arxiv 2021
 [[Paper](https://arxiv.org/abs/2112.01455)]
 [[Project](https://ajayj.com/dreamfields)]
-
-**CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields**<br>
-*Can Wang, Menglei Chai, Mingming He, Dongdong Chen, Jing Liao*<br>
-arxiv 2021
-[[Paper](https://arxiv.org/abs/2112.05139)]
-[[Code](https://github.com/cassiePython/CLIPNeRF)]
-[[Project](https://cassiepython.github.io/clipnerf/)]
 
 
 **AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis**<br>
