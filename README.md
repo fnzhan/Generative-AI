@@ -8,7 +8,7 @@
 <!-- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) -->
 <!-- [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) -->
 
-![Teaser](teaser.png)
+![Teaser](teaser.gif)
 
 <!-- ### TODO -->
 <!-- - MISE Dataset for multimodel image synthesis and editing -->
