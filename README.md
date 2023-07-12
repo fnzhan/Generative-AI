@@ -25,7 +25,7 @@ This project is associated with our survey paper which comprehensively contextua
 
 <br>
 
-[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) <br>
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 You are welcome to promote papers via pull request. <br>
 The process to submit a pull request:
 - a. Fork the project into your own repository.
