@@ -24,7 +24,7 @@ This project is associated with our survey paper which comprehensively contextua
 <!---[DeepAI](https://deepai.org/publication/multimodal-image-synthesis-and-editing-a-survey).**-->
 
 <br>
-<br>
+
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) <br>
 You are welcome to promote papers via pull request. <br>
 The process to submit a pull request:
