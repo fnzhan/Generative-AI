@@ -1,4 +1,4 @@
-# <p align=center> <img src='logo.png' align="center" width=25> Multimodal Image Synthesis and Editing: A Survey</p>
+# <p align=center> <img src='logo.png' align="center" width=30> Multimodal Image Synthesis and Editing: A Survey</p>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2107.05399-b31b1b.svg)](https://arxiv.org/abs/2112.13592)
 [![Survey](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
@@ -23,6 +23,8 @@ This project is associated with our survey paper which comprehensively contextua
 **The survey is featured on DeepAI and [机器之心](https://mp.weixin.qq.com/s/DJXiydi6wHwk7s5Ad2ulaQ).**
 <!---[DeepAI](https://deepai.org/publication/multimodal-image-synthesis-and-editing-a-survey).**-->
 
+<br>
+<br>
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) <br>
 You are welcome to promote papers via pull request. <br>
 The process to submit a pull request:
