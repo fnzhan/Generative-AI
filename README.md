@@ -70,6 +70,7 @@ Computational Visual Media 2022
 
 [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)
 
+<br>
 
 ## Table of Contents (Work in Progress)
 
