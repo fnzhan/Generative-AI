@@ -164,6 +164,10 @@ arxiv 2023
 [[Project](https://janeyeon.github.io/ditto-nerf/)]
 [[Code](https://github.com/janeyeon/ditto-nerf-code)]
 
+**CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout**<br>
+*Yiqi Lin, Haotian Bai, Sijia Li, Haonan Lu, Xiaodong Lin, Hui Xiong, Lin Wang*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2303.13843)]
 
 **Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes**<br>
 *Dana Cohen-Bar, Elad Richardson, Gal Metzer, Raja Giryes, Daniel Cohen-Or*<br>
