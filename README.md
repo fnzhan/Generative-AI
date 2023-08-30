@@ -832,3 +832,16 @@ ICASSP 2022
 Multimodal CelebA-HQ (https://github.com/IIGROUP/MM-CelebA-HQ-Dataset)
 
 DeepFashion MultiModal (https://github.com/yumingj/DeepFashion-MultiModal)
+
+
+## Citation
+If you use this code for your research, please cite our papers.
+```bibtex
+@inproceedings{zhan2023mise,
+  title={Multimodal Image Synthesis and Editing: The Generative AI Era},
+  author={Zhan, Fangneng and Yu, Yingchen and Wu, Rongliang and Zhang, Jiahui and Lu, Shijian and Liu, Lingjie and Kortylewski, Adam and Theobalt, Christian and Xing, Eric},
+  booktitle={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2023},
+  publisher={IEEE}
+}
+```
