@@ -17,8 +17,7 @@
 <!-- ### TODO -->
 <!-- - MISE Dataset for multimodel image synthesis and editing -->
 
-This project is associated with our survey paper which comprehensively contextualizes the advance of the recent Multimodal Image Synthesis \& Editing (MISE) and formulates taxonomies according to data modality and model architectures. 
-The survey is featured on DeepAI and [机器之心](https://mp.weixin.qq.com/s/DJXiydi6wHwk7s5Ad2ulaQ).
+This project is associated with our survey paper which comprehensively contextualizes the advance of the recent Multimodal Image Synthesis \& Editing (MISE) and formulates taxonomies according to data modality and model architectures.
 <!-- For more details, please refer to: <br> -->
 
 <img src='logo.png' align="center" width=20> **Multimodal Image Synthesis and Editing: The Generative AI Era [[Paper](https://arxiv.org/abs/2112.13592)]  [[Project](https://fnzhan.com/Generative-AI/)]**  <br>
