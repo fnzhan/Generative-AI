@@ -76,7 +76,7 @@ Computational Visual Media 2022
 
 **Methods:**
 <!-- ### Methods: -->
-- [NeRF-based Methods](#NeRF-based-Methods)
+- [Neural Rendering Methods](#Neural-rendering-Methods)
 - [Diffusion-based Methods](#Diffusion-based-Methods)
 - [Autoregressive Methods](#Autoregressive-Methods) 
   - [Image Quantizer](#Image-Quantizer)
@@ -92,7 +92,45 @@ Computational Visual Media 2022
 
 
 
-## NeRF-based-Methods
+## Neural-Rendering-Methods
+
+**ATT3D: Amortized Text-to-3D Object Synthesis**<br>
+*Jonathan Lorraine, Kevin Xie, Xiaohui Zeng, Chen-Hsuan Lin, Towaki Takikawa, Nicholas Sharp, Tsung-Yi Lin, Ming-Yu Liu, Sanja Fidler, James Lucas*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2306.07349)]
+
+**TADA! Text to Animatable Digital Avatars**<br>
+*Tingting Liao, Hongwei Yi, Yuliang Xiu, Jiaxaing Tang, Yangyi Huang, Justus Thies, Michael J. Black*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2308.10899)]
+
+**MATLABER: Material-Aware Text-to-3D via LAtent BRDF auto-EncodeR**<br>
+*Xudong Xu, Zhaoyang Lyu, Xingang Pan, Bo Dai*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2308.09278)]
+
+**IT3D: Improved Text-to-3D Generation with Explicit View Synthesis**<br>
+*Yiwen Chen, Chi Zhang, Xiaofeng Yang, Zhongang Cai, Gang Yu, Lei Yang, Guosheng Lin*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2308.11473)]
+
+**AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose**<br>
+*Huichao Zhang, Bowen Chen, Hao Yang, Liao Qu, Xu Wang, Li Chen, Chao Long, Feida Zhu, Kang Du, Min Zheng*<br>
+arxiv 2023
+[[Paper](https://arxiv.org/abs/2308.03610)]
+[[Project](https://avatarverse3d.github.io/)]
+
+**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**<br>
+*Ayaan Haque, Matthew Tancik, Alexei A. Efros, Aleksander Holynski, Angjoo Kanazawa*<br>
+ICCV 2023
+[[Paper](https://arxiv.org/abs/2303.12789)]
+[[Project](https://instruct-nerf2nerf.github.io)]
+[[Code](https://github.com/ayaanzhaque/instruct-nerf2nerf)]
+
+**FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields**<br>
+*Sungwon Hwang, Junha Hyung, Daejin Kim, Min-Jung Kim, Jaegul Choo*<br>
+ICCV 2023
+[[Paper](https://arxiv.org/abs/2307.11418v3)]
 
 **Local 3D Editing via 3D Distillation of CLIP Knowledge**<br>
 *Junha Hyung, Sungwon Hwang, Daejin Kim, Hyunji Lee, Jaegul Choo*<br>
@@ -176,12 +214,7 @@ arxiv 2023
 [[Project](https://danacohen95.github.io/Set-the-Scene/)]
 [[Code](https://github.com/DanaCohen95/Set-the-Scene)]
 
-**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**<br>
-*Ayaan Haque, Matthew Tancik, Alexei A. Efros, Aleksander Holynski, Angjoo Kanazawa*<br>
-arxiv 2023
-[[Paper](https://arxiv.org/abs/2303.12789)]
-[[Project](https://instruct-nerf2nerf.github.io)]
-[[Code](https://github.com/ayaanzhaque/instruct-nerf2nerf)]
+
 
 **Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**<br>
 *Junyoung Seo, Wooseok Jang, Min-Seop Kwak, Jaehoon Ko, Hyeonsu Kim, Junho Kim, Jin-Hwa Kim, Jiyoung Lee, Seungryong Kim*<br>
