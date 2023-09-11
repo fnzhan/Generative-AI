@@ -394,7 +394,7 @@ CVPR 2023
 CVPR 2023
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.pdf)]
 [[Project](https://www.timothybrooks.com/instruct-pix2pix/)]
-[[Code]https://github.com/timothybrooks/instruct-pix2pix)]
+[[Code](https://github.com/timothybrooks/instruct-pix2pix)]
 
 **Unite and Conquer: Plug & Play Multi-Modal Synthesis using Diffusion Models**<br>
 *Nithin Gopalakrishnan Nair, Chaminda Bandara, Vishal M Patel*<br>
