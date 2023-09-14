@@ -12,13 +12,11 @@
 <!-- [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) -->
 
 <img src='teaser.gif' align="center">
-<!-- ![Teaser](teaser.gif) -->
 
-<!-- ### TODO -->
-<!-- - MISE Dataset for multimodel image synthesis and editing -->
 
-This project is associated with our survey paper which comprehensively contextualizes the advance of the recent Multimodal Image Synthesis \& Editing (MISE) and formulates taxonomies according to data modality and model architectures.
-<!-- For more details, please refer to: <br> -->
+This project is associated with our survey paper which comprehensively contextualizes the advance of Multimodal Image 
+Synthesis \& Editing (MISE) and visual AIGC by formulating taxonomies according to data modality and model architectures.
+
 
 <img src='logo.png' align="center" width=20> **Multimodal Image Synthesis and Editing: The Generative AI Era [[Paper](https://arxiv.org/abs/2112.13592)]  [[Project](https://fnzhan.com/Generative-AI/)]**  <br>
 [Fangneng Zhan](https://fnzhan.com/), [Yingchen Yu](https://yingchen001.github.io/), [Rongliang Wu](https://scholar.google.com.sg/citations?user=SZkh3iAAAAAJ&hl=en), [Jiahui Zhang](https://scholar.google.com/citations?user=DXpYbWkAAAAJ&hl=zh-CN), [Shijian Lu](https://scholar.google.com.sg/citations?user=uYmK-A0AAAAJ&hl=en), [Lingjie Liu](https://lingjie0206.github.io/), [Adam Kortylewsk](https://generativevision.mpi-inf.mpg.de/), <br> [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/), [Eric Xing](http://www.cs.cmu.edu/~epxing/) <br>
