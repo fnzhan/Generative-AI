@@ -818,6 +818,12 @@ arxiv 2021
 [[Paper](https://arxiv.org/abs/2112.00374)]
 [[Code](https://github.com/paper11667/CLIPstyler)]
 
+**Wakey-Wakey: Animate Text by Mimicking Characters in a GIF**<br>
+*Liwenhan Xie, Zhaoyu Zhou, Kerun Yu, Yun Wang, Huamin Qu, Siming Chen*<br>
+UIST 2023
+[[Paper]](https://arxiv.org/pdf/2308.00224.pdf)
+[[Code]](https://github.com/KeriYuu/Wakey-Wakey)
+[[Project]](https://shellywhen.github.io/projects/Wakey-Wakey)
 
 
 <br>
